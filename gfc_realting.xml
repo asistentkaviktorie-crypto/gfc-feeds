@@ -2,7 +2,7 @@
 <root>
 <kyero>
 <feed_version>3</feed_version>
-<feed_generated>2026-10-26 10:25:28</feed_generated>
+<feed_generated>2026-10-26 10:42:00</feed_generated>
 </kyero>
 <property>
 <id>GFC-3987679</id>
@@ -897,7 +897,7 @@
 </property>
 <property>
 <id>GFC-3843771</id>
-<date>2026-10-26 10:23:10</date>
+<date>2026-10-26 10:42:00</date>
 <ref>GFC-3843771</ref>
 <price>365000</price>
 <currency>EUR</currency>
@@ -919,9 +919,20 @@
 <built>75</built>
 </surface_area>
 <desc>
-<en>Puerto de la Duquesa – renovated 2-bedroom apartment on the beachfront with sea views, €365,000&#13;&#13;A fully renovated apartment on the front line of the beach at Puerto de la Duquesa marina, Costa del Sol.&#13;&#13;75 m², 2 bedrooms, 1 bathroom and a large terrace with sea views. New electrics and plumbing, a modern kitchen, sold fully furnished – ready to live in or to rent out from day one.&#13;&#13;The apartment already has a rental history with excellent guest reviews.&#13;&#13;A beachfront home for yourself or a ready-made source of rental income. Contact us for details and a viewing.</en>
-<ru>Puerto de la Duquesa – квартира с 2 спальнями после ремонта на первой линии пляжа с видом на море, 365 000 €&#13;&#13;Полностью отремонтированная квартира на первой линии пляжа у марины Puerto de la Duquesa, Коста-дель-Соль.&#13;&#13;75 м², 2 спальни, 1 ванная и большая терраса с видом на море. Новая электрика и сантехника, современная кухня, продается полностью меблированной – можно жить или сдавать с первого дня.&#13;&#13;У квартиры уже есть история аренды с отличными отзывами гостей.&#13;&#13;Дом у пляжа для себя или готовый источник арендного дохода. Напишите нам, расскажем подробности и организуем просмотр.</ru>
+<en>Front-line beach apartment in Puerto de la Duquesa – renovated 2-bed with sea-view terrace and tourist licence&#13;&#13;A turnkey apartment right on the beach and marina of Puerto de la Duquesa, Manilva – fully renovated, sold furnished and ready to live in or rent out from day one.&#13;&#13;• 75 m² built, 2 bedrooms (a double and a twin), 1 modern bathroom&#13;• 18 m² private terrace with sea and marina views&#13;• Bright open-plan living and dining area with a fitted kitchen&#13;• Complete renovation: new plumbing and electrics, new finishes and furniture, all appliances included&#13;• Air conditioning; east-facing, with morning sun&#13;• Holiday-rental (tourist) licence; already let on Booking.com and Airbnb with excellent guest reviews&#13;&#13;Puerto de la Duquesa is one of the most charming marinas on the Costa del Sol: yachts, beaches, restaurants, cafés and shops on the doorstep, with quick A-7 access to Estepona (about 10 minutes), Sotogrande and Gibraltar.&#13;&#13;A front-line holiday home or a ready-made rental investment. Contact us for full details, a video tour or a viewing.</en>
+<ru>Квартира на первой линии пляжа в Пуэрто-де-ла-Дукеса – 2 спальни, ремонт, терраса с видом на море, туристическая лицензия&#13;&#13;Готовая к жизни и сдаче квартира прямо у пляжа и марины Пуэрто-де-ла-Дукеса (Манильва, Коста-дель-Соль): полный ремонт, продается с мебелью.&#13;&#13;• 75 м², 2 спальни (с двуспальной кроватью и с двумя односпальными), 1 современная ванная&#13;• Собственная терраса 18 м² с видом на море и марину&#13;• Светлая гостиная-столовая с оборудованной кухней&#13;• Полный ремонт: новая сантехника и электрика, новая отделка и мебель, вся техника включена&#13;• Кондиционер; ориентация на восток, утреннее солнце&#13;• Туристическая лицензия на краткосрочную аренду; квартира уже сдается через Booking.com и Airbnb с отличными отзывами гостей&#13;&#13;Пуэрто-де-ла-Дукеса — одна из самых уютных марин Коста-дель-Соль: яхты, пляжи, рестораны, кафе и магазины рядом с домом, быстрый выезд на трассу A-7 до Эстепоны (около 10 минут), Сотогранде и Гибралтара.&#13;&#13;Дом у моря для себя или готовая инвестиция с арендным доходом. Напишите нам — пришлем подробности, видеотур или организуем просмотр.</ru>
 </desc>
+<features>
+<feature>front line beach</feature>
+<feature>sea views</feature>
+<feature>marina views</feature>
+<feature>private terrace</feature>
+<feature>air conditioning</feature>
+<feature>fully furnished</feature>
+<feature>fully fitted kitchen</feature>
+<feature>renovated</feature>
+<feature>tourist licence</feature>
+</features>
 <images>
 <image id="1">
 <url>https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/01.jpg</url>
@@ -952,21 +963,6 @@
 </image>
 <image id="10">
 <url>https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/10.jpg</url>
-</image>
-<image id="11">
-<url>https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/11.jpg</url>
-</image>
-<image id="12">
-<url>https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/12.jpg</url>
-</image>
-<image id="13">
-<url>https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/13.jpg</url>
-</image>
-<image id="14">
-<url>https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/14.jpg</url>
-</image>
-<image id="15">
-<url>https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/15.jpg</url>
 </image>
 </images>
 </property>
