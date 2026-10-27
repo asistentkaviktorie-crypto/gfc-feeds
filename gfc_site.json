@@ -1,0 +1,1278 @@
+{
+ "version": 1,
+ "generated": "2026-10-27T15:15:00+01:00",
+ "currency": "EUR",
+ "languages": [
+  "en",
+  "es",
+  "ru",
+  "de",
+  "fr",
+  "cs"
+ ],
+ "fallbackLanguages": [
+  "en",
+  "ru"
+ ],
+ "count": 14,
+ "visibleCount": 10,
+ "properties": [
+  {
+   "id": "gfc-3843771",
+   "cabinetId": "obj-mvpaoz1y",
+   "ref": "GFC-3843771",
+   "type": "resale",
+   "area": "manilva",
+   "town": "Manilva",
+   "price": 365000,
+   "priceFrom": false,
+   "currency": "EUR",
+   "sqm": 75,
+   "beds": 2,
+   "baths": 1,
+   "seaM": null,
+   "license": "yes",
+   "communityMonth": null,
+   "ibiYear": null,
+   "insuranceYear": null,
+   "longRentMonth": 1050,
+   "adr": 120,
+   "occLong": 0.9,
+   "occShort": 0.55,
+   "mgmtLong": 0.08,
+   "mgmtShort": 0.2,
+   "landUse": null,
+   "sellableSqm": null,
+   "buildCostSqm": null,
+   "exitSqm": null,
+   "contract": false,
+   "hidden": false,
+   "images": [
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/01.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/02.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/03.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/04.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/05.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/06.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/07.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/08.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/09.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/10.jpg"
+   ],
+   "i18n": {
+    "en": {
+     "title": "Front-line beach apartment in Puerto de la Duquesa – renovated 2-bed with sea-view terrace and tourist licence",
+     "summary": "A front-line beach apartment by the marina of Puerto de la Duquesa (Manilva): fully renovated, sold furnished with a tourist licence. 75 m², 2 bedrooms, 1 bathroom and an 18 m² private terrace with sea and marina views.",
+     "lifestyle": "Bright open-plan living and dining area with a fitted kitchen. Complete renovation: new plumbing and electrics, new finishes and furniture, all appliances included. Air conditioning; east-facing, with morning sun. Yachts, beaches, restaurants, cafés and shops on the doorstep, with quick A-7 access to Estepona (about 10 minutes), Sotogrande and Gibraltar. We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.",
+     "invest": "Price €365,000; the apartment is sold furnished with a tourist licence and is already let on Booking.com and Airbnb. The base case is short lets: the card uses €120 a night and 55% occupancy – below AirDNA's averages for Manilva (about 60% and €135), which also include larger homes. For comparison, a long let would be about €1,050 a month (Fotocasa, Duquesa). Community fees and IBI are not yet confirmed.",
+     "risk": "Short-let income is seasonal, and community fees and IBI are not yet confirmed, so the net yield may turn out lower than the estimate."
+    },
+    "es": {
+     "title": "Apartamento en primera línea de playa en Puerto de la Duquesa – 2 dormitorios reformado, terraza con vistas al mar y licencia turística",
+     "summary": "Apartamento en primera línea de playa junto al puerto deportivo de Puerto de la Duquesa (Manilva): reformado por completo, se vende amueblado y con licencia turística. 75 m², 2 dormitorios, 1 baño y terraza privada de 18 m² con vistas al mar y al puerto.",
+     "lifestyle": "Salón-comedor luminoso con cocina equipada. Reforma integral: fontanería y electricidad nuevas, acabados y muebles nuevos, todos los electrodomésticos incluidos. Aire acondicionado; orientación este, sol de mañana. Yates, playas, restaurantes, cafés y tiendas a la puerta, con acceso rápido a la A-7 hacia Estepona (unos 10 minutos), Sotogrande y Gibraltar. Ofrecemos visitas online por vídeo y le acompañamos en toda la compra, desde la reserva hasta la notaría, en inglés o en ruso.",
+     "invest": "Precio 365.000 €; el apartamento se vende amueblado, con licencia turística, y ya se alquila en Booking.com y Airbnb. El escenario base es el alquiler vacacional: la ficha usa 120 € por noche y un 55 % de ocupación, por debajo de las medias de AirDNA para Manilva (alrededor del 60 % y 135 €), que incluyen también viviendas más grandes. Como referencia, el alquiler de larga estancia rondaría los 1.050 € al mes (Fotocasa, Duquesa). Comunidad e IBI aún sin confirmar.",
+     "risk": "El ingreso turístico es estacional y la comunidad y el IBI aún no están confirmados, por lo que la rentabilidad neta puede resultar inferior a la estimación."
+    },
+    "ru": {
+     "title": "Квартира на первой линии пляжа в Пуэрто-де-ла-Дукеса – 2 спальни, ремонт, терраса с видом на море, туристическая лицензия",
+     "summary": "Квартира на первой линии пляжа у марины Пуэрто-де-ла-Дукеса (Манильва): полный ремонт, продаётся с мебелью и туристической лицензией. 75 м², 2 спальни, 1 ванная и собственная терраса 18 м² с видом на море и марину.",
+     "lifestyle": "Светлая гостиная-столовая с оборудованной кухней. Полный ремонт: новая сантехника и электрика, новая отделка и мебель, вся техника включена. Кондиционер; ориентация на восток, утреннее солнце. Яхты, пляжи, рестораны, кафе и магазины рядом с домом, быстрый выезд на трассу A-7 до Эстепоны (около 10 минут), Сотогранде и Гибралтара. Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.",
+     "invest": "Цена €365 000; квартира продаётся с мебелью и туристической лицензией и уже сдаётся через Booking.com и Airbnb. Базовый сценарий — краткосрочная аренда: в карточке €120 за ночь и занятость 55% — ниже средних показателей AirDNA по Манильве (около 60% и €135), куда входят и более крупные квартиры. Для сравнения, долгосрочная аренда — около €1 050 в месяц (Fotocasa, Дукеса). Комьюнити и IBI пока не подтверждены.",
+     "risk": "Доход от краткосрочной аренды сезонный, а комьюнити и IBI ещё не подтверждены, поэтому чистая доходность может оказаться ниже оценки."
+    },
+    "de": {
+     "title": "Wohnung in erster Strandlinie in Puerto de la Duquesa – renoviert, 2 Schlafzimmer, Terrasse mit Meerblick und Touristenlizenz",
+     "summary": "Wohnung in erster Strandlinie am Yachthafen von Puerto de la Duquesa (Manilva): komplett renoviert, wird möbliert und mit Touristenlizenz verkauft. 75 m², 2 Schlafzimmer, 1 Bad und eine eigene 18-m²-Terrasse mit Blick auf Meer und Hafen.",
+     "lifestyle": "Heller Wohn- und Essbereich mit Einbauküche. Komplettrenovierung: neue Sanitär- und Elektroinstallation, neue Oberflächen und Möbel, alle Geräte inklusive. Klimaanlage; Ostausrichtung mit Morgensonne. Yachten, Strände, Restaurants, Cafés und Geschäfte vor der Tür, schnelle Anbindung über die A-7 nach Estepona (rund 10 Minuten), Sotogrande und Gibraltar. Wir bieten Online-Besichtigungen per Video und begleiten Sie durch den gesamten Kauf – von der Reservierung bis zum Notar – auf Englisch oder Russisch.",
+     "invest": "Preis 365.000 €; die Wohnung wird möbliert und mit Touristenlizenz verkauft und ist bereits über Booking.com und Airbnb vermietet. Basisszenario ist die Ferienvermietung: Die Karte rechnet mit 120 € pro Nacht und 55 % Auslastung – unter den AirDNA-Durchschnittswerten für Manilva (rund 60 % und 135 €), die auch größere Wohnungen enthalten. Zum Vergleich: Langzeitmiete etwa 1.050 € pro Monat (Fotocasa, Duquesa). Hausgeld und IBI sind noch nicht bestätigt.",
+     "risk": "Einnahmen aus Ferienvermietung sind saisonal, und Hausgeld und IBI sind noch nicht bestätigt – die Nettorendite kann niedriger ausfallen als geschätzt."
+    },
+    "fr": {
+     "title": "Appartement en front de plage à Puerto de la Duquesa – 2 chambres rénové, terrasse vue mer et licence touristique",
+     "summary": "Appartement en front de plage près de la marina de Puerto de la Duquesa (Manilva) : entièrement rénové, vendu meublé avec licence touristique. 75 m², 2 chambres, 1 salle de bains et une terrasse privée de 18 m² avec vue sur la mer et la marina.",
+     "lifestyle": "Séjour-salle à manger lumineux avec cuisine équipée. Rénovation complète : plomberie et électricité neuves, finitions et mobilier neufs, tout l'électroménager inclus. Climatisation ; orientation est, soleil du matin. Yachts, plages, restaurants, cafés et commerces au pied de l'immeuble, accès rapide à l'A-7 vers Estepona (environ 10 minutes), Sotogrande et Gibraltar. Nous proposons des visites en ligne par vidéo et vous accompagnons pendant tout l'achat – de la réservation jusqu'au notaire – en anglais ou en russe.",
+     "invest": "Prix 365 000 € ; l'appartement est vendu meublé avec licence touristique et se loue déjà sur Booking.com et Airbnb. Le scénario de base est la location courte durée : la fiche retient 120 € la nuit et 55 % d'occupation – en dessous des moyennes AirDNA pour Manilva (environ 60 % et 135 €), qui incluent aussi des logements plus grands. À titre de comparaison, une location longue durée rapporterait environ 1 050 € par mois (Fotocasa, Duquesa). Charges de copropriété et IBI pas encore confirmées.",
+     "risk": "Le revenu de location courte durée est saisonnier, et les charges de copropriété et l'IBI ne sont pas encore confirmées : le rendement net peut être inférieur à l'estimation."
+    },
+    "cs": {
+     "title": "Byt v první linii u pláže v Puerto de la Duquesa – zrekonstruovaný, 2 ložnice, terasa s výhledem na moře a turistická licence",
+     "summary": "Byt v první linii u pláže u přístavu Puerto de la Duquesa (Manilva): kompletně zrekonstruovaný, prodává se zařízený a s turistickou licencí. 75 m², 2 ložnice, 1 koupelna a vlastní terasa 18 m² s výhledem na moře a přístav.",
+     "lifestyle": "Světlý obývací pokoj s jídelnou a vestavěnou kuchyní. Kompletní rekonstrukce: nové rozvody vody a elektřiny, nové povrchy a nábytek, všechny spotřebiče v ceně. Klimatizace; orientace na východ s ranním sluncem. Jachty, pláže, restaurace, kavárny a obchody hned za dveřmi, rychlé napojení na dálnici A-7 do Estepony (asi 10 minut), Sotogrande a Gibraltaru. Nabízíme online prohlídky přes video a provedeme vás celým nákupem – od rezervace až k notáři – v angličtině nebo ruštině.",
+     "invest": "Cena 365 000 €; byt se prodává zařízený a s turistickou licencí a už se pronajímá přes Booking.com a Airbnb. Základní scénář je krátkodobý pronájem: karta počítá se 120 € za noc a 55% obsazeností – pod průměrem AirDNA pro Manilvu (asi 60 % a 135 €), do kterého patří i větší byty. Pro srovnání: dlouhodobý pronájem by vynesl asi 1 050 € měsíčně (Fotocasa, Duquesa). Poplatky společenství vlastníků a IBI zatím nejsou potvrzené.",
+     "risk": "Příjem z krátkodobého pronájmu je sezónní a poplatky společenství a IBI zatím nejsou potvrzené – čistý výnos může být nižší, než je odhad."
+    }
+   }
+  },
+  {
+   "id": "gfc-3843796",
+   "cabinetId": null,
+   "ref": "GFC-3843796",
+   "type": "resale",
+   "area": "nueva-andalucia",
+   "town": "Benahavís",
+   "price": 1990000,
+   "priceFrom": false,
+   "currency": "EUR",
+   "sqm": 367,
+   "beds": 4,
+   "baths": 4,
+   "seaM": null,
+   "license": "no",
+   "communityMonth": null,
+   "ibiYear": null,
+   "insuranceYear": null,
+   "longRentMonth": 4500,
+   "adr": null,
+   "occLong": 0.9,
+   "occShort": null,
+   "mgmtLong": 0.08,
+   "mgmtShort": null,
+   "landUse": null,
+   "sellableSqm": null,
+   "buildCostSqm": null,
+   "exitSqm": null,
+   "contract": false,
+   "hidden": false,
+   "images": [
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/201.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/202.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/203.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/204.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/205.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/206.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/207.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/208.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/209.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/210.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/211.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/212.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/213.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/214.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/215.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/216.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/217.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/218.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/219.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/220.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/221.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/222.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/223.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/224.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/225.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/226.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/227.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/228.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/229.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/230.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/231.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/232.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843796/233.jpg"
+   ],
+   "i18n": {
+    "en": {
+     "title": "Real de La Quinta, Benahavís – 4-bedroom garden-level residence, 245 m² and 122 m² of terraces",
+     "summary": "A ground-floor residence in Olivos Phase 3, Real de La Quinta – a gated complex with 24-hour security in the hills of Benahavís, among golf courses, with panoramic views of the mountains, the sea and La Concha. 367 m² in total: 245 m² of living space and 122 m² of covered terraces.",
+     "lifestyle": "4 bedrooms, 4 bathrooms, 3 underground parking spaces and 2 storage rooms. A spacious living and dining room with panoramic sliding windows onto the terraces, a modern kitchen with an island and breakfast bar, built-in wardrobes, a walk-in wardrobe, a freestanding bath in the master bathroom, hot and cold air conditioning. The complex has gardens and pools for adults and children. Marbella and Puerto Banús are about 5 minutes away; beaches, golf, restaurants, marinas, international schools and Málaga airport are within easy reach. We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.",
+     "invest": "Price €1,990,000. We model a long let: La Quinta is about €20/m² (Fotocasa), 3-bedroom apartments let for €2,700–4,700 and 4-bedroom ones from €4,200; we take a conservative figure, allowing for the large terraces. There is no tourist licence in our data, so we do not model short lets. Community fees and IBI are not yet known – being clarified.",
+     "risk": "Community fees and IBI are not yet confirmed, so the net yield on the card may turn out lower."
+    },
+    "es": {
+     "title": "Real de La Quinta, Benahavís – residencia de 4 dormitorios en planta jardín, 245 m² y 122 m² de terrazas",
+     "summary": "Residencia en planta baja en Olivos Fase 3, Real de La Quinta: un complejo cerrado con seguridad 24 horas en las colinas de Benahavís, entre campos de golf, con vistas panorámicas a la montaña, al mar y a La Concha. 367 m² en total: 245 m² habitables y 122 m² de terrazas cubiertas.",
+     "lifestyle": "4 dormitorios, 4 baños, 3 plazas de garaje subterráneo y 2 trasteros. Amplio salón-comedor con ventanales correderos panorámicos hacia las terrazas, cocina moderna con isla y barra, armarios empotrados, vestidor, bañera exenta en el baño principal, aire acondicionado frío/calor. El complejo tiene jardines y piscinas para adultos y niños. Marbella y Puerto Banús a unos 5 minutos; playas, golf, restaurantes, puertos deportivos, colegios internacionales y el aeropuerto de Málaga, a mano. Ofrecemos visitas online por vídeo y le acompañamos en toda la compra, desde la reserva hasta la notaría, en inglés o en ruso.",
+     "invest": "Precio 1.990.000 €. Modelamos el alquiler de larga estancia: La Quinta ronda los 20 €/m² (Fotocasa), los pisos de 3 dormitorios se alquilan por 2.700–4.700 € y los de 4 dormitorios desde 4.200 €; tomamos una cifra conservadora teniendo en cuenta las grandes terrazas. En nuestros datos no hay licencia turística, por lo que no calculamos alquiler vacacional. La comunidad y el IBI aún no se conocen; los estamos aclarando.",
+     "risk": "La comunidad y el IBI aún no están confirmados, por lo que la rentabilidad neta de la ficha puede resultar inferior."
+    },
+    "ru": {
+     "title": "Real de La Quinta, Benahavís — резиденция с 4 спальнями на садовом уровне, 245 м² и 122 м² террас",
+     "summary": "Резиденция на первом этаже в Olivos Phase 3, Real de La Quinta — закрытом комплексе с круглосуточной охраной в холмах Benahavís, среди полей для гольфа, с панорамным видом на горы, море и La Concha. 367 м² общей площади: 245 м² жилой и 122 м² крытых террас.",
+     "lifestyle": "4 спальни, 4 ванные, 3 места в подземном паркинге и 2 кладовые. Просторная гостиная-столовая с панорамными раздвижными окнами на террасы, современная кухня с островом и барной стойкой, встроенные шкафы, гардеробная, отдельно стоящая ванна в главной ванной, кондиционер на тепло и холод. В комплексе сады и бассейны для взрослых и детей. Марбелья и Пуэрто-Банус примерно в 5 минутах; пляжи, гольф, рестораны, марины, международные школы и аэропорт Малаги в пределах досягаемости. Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.",
+     "invest": "Цена €1 990 000. Считаем долгосрочную аренду: La Quinta около €20/м² (Fotocasa), квартиры с 3 спальнями сдаются за €2 700–4 700, с 4 спальнями — от €4 200; берём консервативно с учётом больших террас. Туристической лицензии в наших данных нет, краткосрок не считаем. Комьюнити и IBI пока не известны — уточняются.",
+     "risk": "Расходы комьюнити и IBI ещё не подтверждены, поэтому чистая доходность в карточке может оказаться ниже."
+    },
+    "de": {
+     "title": "Real de La Quinta, Benahavís – Residenz mit 4 Schlafzimmern auf Gartenebene, 245 m² und 122 m² Terrassen",
+     "summary": "Erdgeschoss-Residenz in Olivos Phase 3, Real de La Quinta – einer geschlossenen Anlage mit 24-Stunden-Sicherheitsdienst in den Hügeln von Benahavís, zwischen Golfplätzen, mit Panoramablick auf Berge, Meer und La Concha. 367 m² gesamt: 245 m² Wohnfläche und 122 m² überdachte Terrassen.",
+     "lifestyle": "4 Schlafzimmer, 4 Bäder, 3 Tiefgaragenplätze und 2 Abstellräume. Großzügiger Wohn- und Essbereich mit Panorama-Schiebefenstern zu den Terrassen, moderne Küche mit Insel und Bartheke, Einbauschränke, begehbarer Kleiderschrank, freistehende Badewanne im Hauptbad, Klimaanlage für Wärme und Kälte. In der Anlage Gärten und Pools für Erwachsene und Kinder. Marbella und Puerto Banús rund 5 Minuten entfernt; Strände, Golf, Restaurants, Yachthäfen, internationale Schulen und der Flughafen Málaga gut erreichbar. Wir bieten Online-Besichtigungen per Video und begleiten Sie durch den gesamten Kauf – von der Reservierung bis zum Notar – auf Englisch oder Russisch.",
+     "invest": "Preis 1.990.000 €. Wir rechnen mit Langzeitmiete: La Quinta liegt bei etwa 20 €/m² (Fotocasa), Wohnungen mit 3 Schlafzimmern werden für 2.700–4.700 € vermietet, mit 4 Schlafzimmern ab 4.200 €; wir setzen mit Blick auf die großen Terrassen konservativ an. Eine Touristenlizenz ist in unseren Daten nicht vorhanden, Kurzzeitvermietung rechnen wir daher nicht. Hausgeld und IBI sind noch nicht bekannt – wird geklärt.",
+     "risk": "Hausgeld und IBI sind noch nicht bestätigt, daher kann die Nettorendite auf der Karte niedriger ausfallen."
+    },
+    "fr": {
+     "title": "Real de La Quinta, Benahavís – résidence de 4 chambres en rez-de-jardin, 245 m² et 122 m² de terrasses",
+     "summary": "Résidence en rez-de-chaussée dans Olivos Phase 3, Real de La Quinta – un ensemble fermé avec sécurité 24 h/24 sur les collines de Benahavís, au milieu des golfs, avec vue panoramique sur les montagnes, la mer et La Concha. 367 m² au total : 245 m² habitables et 122 m² de terrasses couvertes.",
+     "lifestyle": "4 chambres, 4 salles de bains, 3 places de parking souterrain et 2 caves. Vaste séjour-salle à manger avec baies coulissantes panoramiques sur les terrasses, cuisine moderne avec îlot et bar, placards intégrés, dressing, baignoire îlot dans la salle de bains principale, climatisation chaud/froid. Jardins et piscines pour adultes et enfants dans l'ensemble. Marbella et Puerto Banús à environ 5 minutes ; plages, golfs, restaurants, marinas, écoles internationales et aéroport de Málaga facilement accessibles. Nous proposons des visites en ligne par vidéo et vous accompagnons pendant tout l'achat – de la réservation jusqu'au notaire – en anglais ou en russe.",
+     "invest": "Prix 1 990 000 €. Nous modélisons une location longue durée : La Quinta tourne autour de 20 €/m² (Fotocasa), les appartements de 3 chambres se louent 2 700–4 700 € et ceux de 4 chambres à partir de 4 200 € ; nous retenons un chiffre prudent compte tenu des grandes terrasses. Pas de licence touristique dans nos données, nous ne comptons donc pas de location courte durée. Charges de copropriété et IBI pas encore connues – en cours de vérification.",
+     "risk": "Les charges de copropriété et l'IBI ne sont pas encore confirmées : le rendement net de la fiche peut s'avérer plus bas."
+    },
+    "cs": {
+     "title": "Real de La Quinta, Benahavís – rezidence se 4 ložnicemi v přízemí se zahradou, 245 m² a 122 m² teras",
+     "summary": "Rezidence v přízemí v projektu Olivos Phase 3, Real de La Quinta – uzavřeném areálu s nepřetržitou ostrahou v kopcích Benahavísu mezi golfovými hřišti, s panoramatickým výhledem na hory, moře a La Conchu. Celkem 367 m²: 245 m² obytné plochy a 122 m² krytých teras.",
+     "lifestyle": "4 ložnice, 4 koupelny, 3 podzemní parkovací místa a 2 sklepy. Prostorný obývací pokoj s jídelnou a panoramatickými posuvnými okny na terasy, moderní kuchyň s ostrůvkem a barem, vestavěné skříně, šatna, volně stojící vana v hlavní koupelně, klimatizace pro topení i chlazení. V areálu zahrady a bazény pro dospělé i děti. Marbella a Puerto Banús asi 5 minut; pláže, golf, restaurace, přístavy, mezinárodní školy a letiště Málaga snadno dostupné. Nabízíme online prohlídky přes video a provedeme vás celým nákupem – od rezervace až k notáři – v angličtině nebo ruštině.",
+     "invest": "Cena 1 990 000 €. Počítáme s dlouhodobým pronájmem: La Quinta se pohybuje kolem 20 €/m² (Fotocasa), byty se 3 ložnicemi se pronajímají za 2 700–4 700 €, se 4 ložnicemi od 4 200 €; vzhledem k velkým terasám bereme konzervativní hodnotu. Turistickou licenci v našich datech nemáme, krátkodobý pronájem proto nepočítáme. Poplatky společenství a IBI zatím nejsou známé – ověřujeme.",
+     "risk": "Poplatky společenství a IBI zatím nejsou potvrzené, čistý výnos na kartě proto může vyjít nižší."
+    }
+   }
+  },
+  {
+   "id": "gfc-3987630",
+   "cabinetId": null,
+   "ref": "GFC-3987630",
+   "type": "new",
+   "area": "sotogrande",
+   "town": "San Roque",
+   "price": 950000,
+   "priceFrom": false,
+   "currency": "EUR",
+   "sqm": 133,
+   "beds": 2,
+   "baths": 2,
+   "seaM": null,
+   "license": "no",
+   "communityMonth": null,
+   "ibiYear": null,
+   "insuranceYear": null,
+   "longRentMonth": 2200,
+   "adr": null,
+   "occLong": 0.9,
+   "occShort": null,
+   "mgmtLong": 0.08,
+   "mgmtShort": null,
+   "landUse": null,
+   "sellableSqm": null,
+   "buildCostSqm": null,
+   "exitSqm": null,
+   "contract": false,
+   "hidden": false,
+   "images": [
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987630/01.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987630/02.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987630/03.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987630/04.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987630/05.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987630/06.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987630/08.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987630/10.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987630/11.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987630/13.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987630/14.jpg"
+   ],
+   "i18n": {
+    "en": {
+     "title": "Village Verde, La Reserva, Sotogrande – completed 2-bedroom apartment with a 56 m² terrace",
+     "summary": "Apartment 8-1D in Village Verde – completed and ready to move into. One floor above garden level, east-facing: 133 m² in total (100 m² of living space) and 56 m² of terraces, 50 m² of them covered.",
+     "lifestyle": "2 bedrooms, 2 bathrooms and a guest toilet. Panoramic sliding doors from the living room onto the terrace. Bulthaup kitchen with Siemens and BORA appliances, smart home, underfloor heating, hot and cold air conditioning. 2 parking spaces and a storage room. Gated park with 24-hour security, pools, a 20-metre pool (indoor and outdoor), spa and gym. Golf and an international school a few minutes away, Gibraltar airport 20 km. The complex is built to BREEAM standards. We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.",
+     "invest": "Price €950,000, VAT not included; kitchen and wardrobes included, no furniture. We model a long let: Fotocasa gives about €13/m² for Sotogrande Alto, and new apartments in La Reserva let above the average (3 bedrooms in Senda Chica – €3,000–3,200). There is no tourist licence, so we do not model short lets.",
+     "risk": "The apartment is let unfurnished – it needs furnishing before a tenant moves in, and the rent depends on the season and demand."
+    },
+    "es": {
+     "title": "Village Verde, La Reserva, Sotogrande – apartamento terminado de 2 dormitorios con terraza de 56 m²",
+     "summary": "Apartamento 8-1D en Village Verde: terminado y listo para entrar a vivir. Planta por encima del nivel del jardín, orientación este: 133 m² en total (100 m² habitables) y 56 m² de terrazas, 50 m² de ellas cubiertas.",
+     "lifestyle": "2 dormitorios, 2 baños y aseo de cortesía. Puertas correderas panorámicas del salón a la terraza. Cocina Bulthaup con electrodomésticos Siemens y BORA, domótica, suelo radiante, aire acondicionado frío/calor. 2 plazas de aparcamiento y trastero. Parque cerrado con seguridad 24 horas, piscinas, una piscina de 20 metros (interior y exterior), spa y gimnasio. Golf y colegio internacional a pocos minutos, aeropuerto de Gibraltar a 20 km. El complejo está construido según los estándares BREEAM. Ofrecemos visitas online por vídeo y le acompañamos en toda la compra, desde la reserva hasta la notaría, en inglés o en ruso.",
+     "invest": "Precio 950.000 €, IVA no incluido; cocina y armarios incluidos, sin muebles. Modelamos el alquiler de larga estancia: Fotocasa da unos 13 €/m² para Sotogrande Alto, y los pisos nuevos de La Reserva se alquilan por encima de la media (3 dormitorios en Senda Chica: 3.000–3.200 €). No hay licencia turística, por lo que no calculamos alquiler vacacional.",
+     "risk": "El piso se alquila sin muebles: hay que amueblarlo antes de la entrada del inquilino, y la renta depende de la temporada y la demanda."
+    },
+    "ru": {
+     "title": "Village Verde, La Reserva, Sotogrande — готовая квартира с 2 спальнями и террасой 56 м²",
+     "summary": "Квартира 8-1D в Village Verde — готова, можно заселяться. Этаж над садовым уровнем, восточная ориентация: 133 м² общей площади (100 м² жилой) и 56 м² террас, из них 50 м² крытых.",
+     "lifestyle": "2 спальни, 2 ванные и гостевой туалет. Панорамные раздвижные двери из гостиной на террасу. Кухня Bulthaup с техникой Siemens и BORA, умный дом, тёплые полы, кондиционер на тепло и холод. 2 парковочных места и кладовая. Закрытый парк с круглосуточной охраной, бассейнами, 20-метровым бассейном (внутри и снаружи), спа и спортзалом. Гольф и международная школа в нескольких минутах, аэропорт Гибралтара — 20 км. Комплекс построен по стандартам BREEAM. Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.",
+     "invest": "Цена €950 000, НДС не включён; кухня и шкафы входят, мебели нет. Считаем долгосрочную аренду: Fotocasa даёт около €13/м² для Sotogrande Alto, новые квартиры в La Reserva сдаются дороже среднего (3 спальни в Senda Chica — €3 000–3 200). Туристической лицензии нет, краткосрок не считаем.",
+     "risk": "Квартира сдаётся без мебели — до заселения арендатора нужна меблировка, а ставка зависит от сезона и спроса."
+    },
+    "de": {
+     "title": "Village Verde, La Reserva, Sotogrande – fertige Wohnung mit 2 Schlafzimmern und 56-m²-Terrasse",
+     "summary": "Wohnung 8-1D in Village Verde – fertiggestellt und bezugsfertig. Etage über der Gartenebene, Ostausrichtung: 133 m² gesamt (100 m² Wohnfläche) und 56 m² Terrassen, davon 50 m² überdacht.",
+     "lifestyle": "2 Schlafzimmer, 2 Bäder und Gäste-WC. Panorama-Schiebetüren vom Wohnzimmer zur Terrasse. Bulthaup-Küche mit Geräten von Siemens und BORA, Smart Home, Fußbodenheizung, Klimaanlage für Wärme und Kälte. 2 Stellplätze und ein Abstellraum. Geschlossene Anlage mit 24-Stunden-Sicherheitsdienst, Pools, einem 20-Meter-Becken (innen und außen), Spa und Fitnessraum. Golf und internationale Schule wenige Minuten entfernt, Flughafen Gibraltar 20 km. Die Anlage ist nach BREEAM-Standards gebaut. Wir bieten Online-Besichtigungen per Video und begleiten Sie durch den gesamten Kauf – von der Reservierung bis zum Notar – auf Englisch oder Russisch.",
+     "invest": "Preis 950.000 €, ohne MwSt.; Küche und Schränke inklusive, keine Möbel. Wir rechnen mit Langzeitmiete: Fotocasa nennt rund 13 €/m² für Sotogrande Alto, neue Wohnungen in La Reserva werden über dem Durchschnitt vermietet (3 Schlafzimmer in Senda Chica – 3.000–3.200 €). Keine Touristenlizenz, Kurzzeitvermietung rechnen wir daher nicht.",
+     "risk": "Die Wohnung wird unmöbliert vermietet – vor dem Einzug eines Mieters ist eine Möblierung nötig, und die Miete hängt von Saison und Nachfrage ab."
+    },
+    "fr": {
+     "title": "Village Verde, La Reserva, Sotogrande – appartement achevé de 2 chambres avec terrasse de 56 m²",
+     "summary": "Appartement 8-1D à Village Verde – achevé, prêt à habiter. Étage au-dessus du niveau jardin, orientation est : 133 m² au total (100 m² habitables) et 56 m² de terrasses, dont 50 m² couverts.",
+     "lifestyle": "2 chambres, 2 salles de bains et WC invités. Baies coulissantes panoramiques du séjour vers la terrasse. Cuisine Bulthaup avec électroménager Siemens et BORA, maison connectée, chauffage au sol, climatisation chaud/froid. 2 places de parking et une cave. Parc fermé avec sécurité 24 h/24, piscines, un bassin de 20 mètres (intérieur et extérieur), spa et salle de sport. Golf et école internationale à quelques minutes, aéroport de Gibraltar à 20 km. L'ensemble est construit selon les standards BREEAM. Nous proposons des visites en ligne par vidéo et vous accompagnons pendant tout l'achat – de la réservation jusqu'au notaire – en anglais ou en russe.",
+     "invest": "Prix 950 000 €, TVA non comprise ; cuisine et placards inclus, pas de mobilier. Nous modélisons une location longue durée : Fotocasa donne environ 13 €/m² pour Sotogrande Alto, et les appartements neufs de La Reserva se louent au-dessus de la moyenne (3 chambres à Senda Chica – 3 000–3 200 €). Pas de licence touristique, nous ne comptons donc pas de location courte durée.",
+     "risk": "L'appartement se loue non meublé – il faut le meubler avant l'arrivée d'un locataire, et le loyer dépend de la saison et de la demande."
+    },
+    "cs": {
+     "title": "Village Verde, La Reserva, Sotogrande – dokončený byt se 2 ložnicemi a terasou 56 m²",
+     "summary": "Byt 8-1D ve Village Verde – dokončený, připravený k nastěhování. Patro nad úrovní zahrady, orientace na východ: celkem 133 m² (100 m² obytné plochy) a 56 m² teras, z toho 50 m² krytých.",
+     "lifestyle": "2 ložnice, 2 koupelny a WC pro hosty. Panoramatické posuvné dveře z obývacího pokoje na terasu. Kuchyň Bulthaup se spotřebiči Siemens a BORA, chytrá domácnost, podlahové topení, klimatizace pro topení i chlazení. 2 parkovací místa a sklep. Uzavřený areál s nepřetržitou ostrahou, bazény, 20metrovým bazénem (krytým i venkovním), spa a posilovnou. Golf a mezinárodní škola pár minut odsud, letiště Gibraltar 20 km. Areál je postaven podle standardů BREEAM. Nabízíme online prohlídky přes video a provedeme vás celým nákupem – od rezervace až k notáři – v angličtině nebo ruštině.",
+     "invest": "Cena 950 000 € bez DPH; kuchyň a skříně v ceně, nábytek ne. Počítáme s dlouhodobým pronájmem: Fotocasa uvádí pro Sotogrande Alto asi 13 €/m², nové byty v La Reserva se pronajímají nad průměrem (3 ložnice v Senda Chica – 3 000–3 200 €). Turistická licence není, krátkodobý pronájem proto nepočítáme.",
+     "risk": "Byt se pronajímá nezařízený – před nastěhováním nájemníka je nutné ho zařídit a nájem závisí na sezóně a poptávce."
+    }
+   }
+  },
+  {
+   "id": "gfc-3987625",
+   "cabinetId": null,
+   "ref": "GFC-3987625",
+   "type": "new",
+   "area": "sotogrande",
+   "town": "San Roque",
+   "price": 850000,
+   "priceFrom": false,
+   "currency": "EUR",
+   "sqm": 158,
+   "beds": 1,
+   "baths": 1,
+   "seaM": null,
+   "license": "no",
+   "communityMonth": null,
+   "ibiYear": null,
+   "insuranceYear": null,
+   "longRentMonth": 2000,
+   "adr": null,
+   "occLong": 0.9,
+   "occShort": null,
+   "mgmtLong": 0.08,
+   "mgmtShort": null,
+   "landUse": null,
+   "sellableSqm": null,
+   "buildCostSqm": null,
+   "exitSqm": null,
+   "contract": false,
+   "hidden": false,
+   "images": [
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987625/01.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987625/02.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987625/03.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987625/04.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987625/05.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987625/06.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987625/08.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987625/10.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987625/11.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987625/13.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987625/14.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987625/15.jpg"
+   ],
+   "i18n": {
+    "en": {
+     "title": "Village Verde, La Reserva, Sotogrande – completed ground-floor apartment with terrace and garden",
+     "summary": "Apartment 9-0.B in Village Verde – completed and ready to move into. Ground (garden) floor with a 53 m² terrace (34 m² covered) and a small 11 m² garden looking onto the pine forest and the La Reserva clubhouse; 158 m² in total, 123 m² of living space.",
+     "lifestyle": "One bedroom, one bathroom and a guest toilet. Bulthaup kitchen with Siemens and BORA appliances, smart home, underfloor heating, hot and cold air conditioning. 2 parking spaces and a storage room. Gated park with 24-hour security, pools, a 20-metre pool (indoor and outdoor), spa and gym. Golf and an international school a few minutes away, Gibraltar airport 20 km. We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.",
+     "invest": "Price €850,000, VAT not included; kitchen and wardrobes included, no furniture. We model a long let at Sotogrande Alto rates (about €13/m², Fotocasa), allowing for the new complex. There is no tourist licence, so we do not model short lets.",
+     "risk": "A one-bedroom apartment with a large floor area – a narrow pool of tenants, and it needs furnishing."
+    },
+    "es": {
+     "title": "Village Verde, La Reserva, Sotogrande – apartamento terminado en planta baja con terraza y jardín",
+     "summary": "Apartamento 9-0.B en Village Verde: terminado y listo para entrar a vivir. Planta baja (nivel jardín) con terraza de 53 m² (34 m² cubiertos) y un pequeño jardín de 11 m² con vistas al pinar y a la casa club de La Reserva; 158 m² en total, 123 m² habitables.",
+     "lifestyle": "Un dormitorio, un baño y aseo de cortesía. Cocina Bulthaup con electrodomésticos Siemens y BORA, domótica, suelo radiante, aire acondicionado frío/calor. 2 plazas de aparcamiento y trastero. Parque cerrado con seguridad 24 horas, piscinas, una piscina de 20 metros (interior y exterior), spa y gimnasio. Golf y colegio internacional a pocos minutos, aeropuerto de Gibraltar a 20 km. Ofrecemos visitas online por vídeo y le acompañamos en toda la compra, desde la reserva hasta la notaría, en inglés o en ruso.",
+     "invest": "Precio 850.000 €, IVA no incluido; cocina y armarios incluidos, sin muebles. Modelamos el alquiler de larga estancia con las rentas de Sotogrande Alto (unos 13 €/m², Fotocasa), teniendo en cuenta que el complejo es nuevo. No hay licencia turística, por lo que no calculamos alquiler vacacional.",
+     "risk": "Un piso de un dormitorio con mucha superficie: el abanico de inquilinos es estrecho y además hay que amueblarlo."
+    },
+    "ru": {
+     "title": "Village Verde, La Reserva, Sotogrande — готовая квартира на первом этаже с террасой и садом",
+     "summary": "Квартира 9-0.B в Village Verde — готова, можно заселяться. Первый (садовый) этаж с террасой 53 м² (34 м² крытых) и небольшим садом 11 м² с видом на сосновый лес и клубный дом La Reserva; 158 м² общей площади, 123 м² жилой.",
+     "lifestyle": "Одна спальня, одна ванная и гостевой туалет. Кухня Bulthaup с техникой Siemens и BORA, умный дом, тёплые полы, кондиционер на тепло и холод. 2 парковочных места и кладовая. Закрытый парк с круглосуточной охраной, бассейнами, 20-метровым бассейном (внутри и снаружи), спа и спортзалом. Гольф и международная школа в нескольких минутах, аэропорт Гибралтара — 20 км. Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.",
+     "invest": "Цена €850 000, НДС не включён; кухня и шкафы входят, мебели нет. Считаем долгосрочную аренду по ставкам Sotogrande Alto (около €13/м², Fotocasa) с учётом нового комплекса. Туристической лицензии нет, краткосрок не считаем.",
+     "risk": "Квартира с одной спальней при большой площади — узкий круг арендаторов, плюс нужна меблировка."
+    },
+    "de": {
+     "title": "Village Verde, La Reserva, Sotogrande – fertige Erdgeschosswohnung mit Terrasse und Garten",
+     "summary": "Wohnung 9-0.B in Village Verde – fertiggestellt und bezugsfertig. Erdgeschoss (Gartenebene) mit 53-m²-Terrasse (34 m² überdacht) und kleinem 11-m²-Garten mit Blick auf den Pinienwald und das Clubhaus von La Reserva; 158 m² gesamt, 123 m² Wohnfläche.",
+     "lifestyle": "Ein Schlafzimmer, ein Bad und Gäste-WC. Bulthaup-Küche mit Geräten von Siemens und BORA, Smart Home, Fußbodenheizung, Klimaanlage für Wärme und Kälte. 2 Stellplätze und ein Abstellraum. Geschlossene Anlage mit 24-Stunden-Sicherheitsdienst, Pools, einem 20-Meter-Becken (innen und außen), Spa und Fitnessraum. Golf und internationale Schule wenige Minuten entfernt, Flughafen Gibraltar 20 km. Wir bieten Online-Besichtigungen per Video und begleiten Sie durch den gesamten Kauf – von der Reservierung bis zum Notar – auf Englisch oder Russisch.",
+     "invest": "Preis 850.000 €, ohne MwSt.; Küche und Schränke inklusive, keine Möbel. Wir rechnen mit Langzeitmiete zu den Sätzen von Sotogrande Alto (rund 13 €/m², Fotocasa) unter Berücksichtigung der neuen Anlage. Keine Touristenlizenz, Kurzzeitvermietung rechnen wir daher nicht.",
+     "risk": "Eine Wohnung mit nur einem Schlafzimmer bei großer Fläche – der Kreis der Mieter ist eng, zudem ist eine Möblierung nötig."
+    },
+    "fr": {
+     "title": "Village Verde, La Reserva, Sotogrande – appartement achevé en rez-de-chaussée avec terrasse et jardin",
+     "summary": "Appartement 9-0.B à Village Verde – achevé, prêt à habiter. Rez-de-chaussée (niveau jardin) avec terrasse de 53 m² (34 m² couverts) et petit jardin de 11 m² donnant sur la pinède et le club-house de La Reserva ; 158 m² au total, 123 m² habitables.",
+     "lifestyle": "Une chambre, une salle de bains et WC invités. Cuisine Bulthaup avec électroménager Siemens et BORA, maison connectée, chauffage au sol, climatisation chaud/froid. 2 places de parking et une cave. Parc fermé avec sécurité 24 h/24, piscines, un bassin de 20 mètres (intérieur et extérieur), spa et salle de sport. Golf et école internationale à quelques minutes, aéroport de Gibraltar à 20 km. Nous proposons des visites en ligne par vidéo et vous accompagnons pendant tout l'achat – de la réservation jusqu'au notaire – en anglais ou en russe.",
+     "invest": "Prix 850 000 €, TVA non comprise ; cuisine et placards inclus, pas de mobilier. Nous modélisons une location longue durée aux loyers de Sotogrande Alto (environ 13 €/m², Fotocasa), en tenant compte du caractère neuf de l'ensemble. Pas de licence touristique, nous ne comptons donc pas de location courte durée.",
+     "risk": "Un appartement d'une seule chambre pour une grande surface – un cercle de locataires étroit, et il faut le meubler."
+    },
+    "cs": {
+     "title": "Village Verde, La Reserva, Sotogrande – dokončený byt v přízemí s terasou a zahradou",
+     "summary": "Byt 9-0.B ve Village Verde – dokončený, připravený k nastěhování. Přízemí (úroveň zahrady) s terasou 53 m² (34 m² krytých) a malou zahradou 11 m² s výhledem na borový les a klubovnu La Reserva; celkem 158 m², 123 m² obytné plochy.",
+     "lifestyle": "Jedna ložnice, jedna koupelna a WC pro hosty. Kuchyň Bulthaup se spotřebiči Siemens a BORA, chytrá domácnost, podlahové topení, klimatizace pro topení i chlazení. 2 parkovací místa a sklep. Uzavřený areál s nepřetržitou ostrahou, bazény, 20metrovým bazénem (krytým i venkovním), spa a posilovnou. Golf a mezinárodní škola pár minut odsud, letiště Gibraltar 20 km. Nabízíme online prohlídky přes video a provedeme vás celým nákupem – od rezervace až k notáři – v angličtině nebo ruštině.",
+     "invest": "Cena 850 000 € bez DPH; kuchyň a skříně v ceně, nábytek ne. Počítáme s dlouhodobým pronájmem podle sazeb v Sotogrande Alto (asi 13 €/m², Fotocasa) s ohledem na nový areál. Turistická licence není, krátkodobý pronájem proto nepočítáme.",
+     "risk": "Byt s jedinou ložnicí při velké ploše – úzký okruh nájemníků a je nutné ho zařídit."
+    }
+   }
+  },
+  {
+   "id": "gfc-3849739",
+   "cabinetId": null,
+   "ref": "GFC-3849739",
+   "type": "new",
+   "area": "sotogrande",
+   "town": "San Roque",
+   "price": 1350000,
+   "priceFrom": false,
+   "currency": "EUR",
+   "sqm": 195,
+   "beds": 3,
+   "baths": 3,
+   "seaM": null,
+   "license": "no",
+   "communityMonth": null,
+   "ibiYear": null,
+   "insuranceYear": null,
+   "longRentMonth": 3000,
+   "adr": null,
+   "occLong": 0.9,
+   "occShort": null,
+   "mgmtLong": 0.08,
+   "mgmtShort": null,
+   "landUse": null,
+   "sellableSqm": null,
+   "buildCostSqm": null,
+   "exitSqm": null,
+   "contract": false,
+   "hidden": false,
+   "images": [
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3849739/01.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3849739/02.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3849739/03.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3849739/04.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3849739/05.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3849739/06.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3849739/07.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3849739/09.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3849739/12.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3849739/14.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3849739/16.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3849739/17.jpg"
+   ],
+   "i18n": {
+    "en": {
+     "title": "Village Verde, La Reserva – completed corner apartment with garden, 3 bedrooms, 145 m² terrace",
+     "summary": "Apartment 8-0C in Village Verde – a completed south-facing ground-floor corner apartment: 195 m² in total (144 m² of living space), 145 m² of terraces (107 m² covered) and a 55 m² private garden. The living room looks onto the pine forest, and every bedroom opens onto the terrace and garden.",
+     "lifestyle": "Three bedrooms, three bathrooms and a guest toilet. Built-in wardrobes, Bulthaup kitchen, Siemens and BORA appliances, smart home, underfloor heating, hot and cold air conditioning. Two parking spaces and a storage room. Behind the gates – 24-hour security, concierge, pools, spa, gym and a 20-metre pool. The complex is built to BREEAM standards. Golf and an international school a few minutes away, Gibraltar airport 20 km, Marbella about an hour. We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.",
+     "invest": "One of the last garden apartments in the second phase. Price €1,350,000, VAT not included; kitchen and wardrobes included, no furniture. Long let: comparable 3-bedroom apartments in La Reserva let for €3,000–3,200 a month, a furnished 4-bedroom in Village Verde for €6,500; we take the lower end. There is no tourist licence, so we do not model short lets.",
+     "risk": "The apartment is let unfurnished, and premium rentals depend on demand from families around the international school."
+    },
+    "es": {
+     "title": "Village Verde, La Reserva – apartamento esquinero terminado con jardín, 3 dormitorios, terraza de 145 m²",
+     "summary": "Apartamento 8-0C en Village Verde: apartamento esquinero terminado en planta baja, orientado al sur: 195 m² en total (144 m² habitables), 145 m² de terrazas (107 m² cubiertos) y jardín privado de 55 m². El salón mira al pinar y todos los dormitorios salen a la terraza y al jardín.",
+     "lifestyle": "Tres dormitorios, tres baños y aseo de cortesía. Armarios empotrados, cocina Bulthaup, electrodomésticos Siemens y BORA, domótica, suelo radiante, aire acondicionado frío/calor. Dos plazas de aparcamiento y trastero. Tras la verja: seguridad 24 horas, conserjería, piscinas, spa, gimnasio y piscina de 20 metros. Complejo construido según los estándares BREEAM. Golf y colegio internacional a pocos minutos, aeropuerto de Gibraltar a 20 km, Marbella a una hora aproximadamente. Ofrecemos visitas online por vídeo y le acompañamos en toda la compra, desde la reserva hasta la notaría, en inglés o en ruso.",
+     "invest": "Uno de los últimos pisos con jardín de la segunda fase. Precio 1.350.000 €, IVA no incluido; cocina y armarios incluidos, sin muebles. Alquiler de larga estancia: pisos comparables de 3 dormitorios en La Reserva, 3.000–3.200 € al mes; uno de 4 dormitorios amueblado en Village Verde, 6.500 €; tomamos el extremo inferior. No hay licencia turística, por lo que no calculamos alquiler vacacional.",
+     "risk": "El piso se alquila sin muebles, y el alquiler del segmento premium depende de la demanda de familias en torno al colegio internacional."
+    },
+    "ru": {
+     "title": "Village Verde, La Reserva — готовая угловая квартира с садом, 3 спальни, терраса 145 м²",
+     "summary": "Квартира 8-0C в Village Verde — готовая угловая квартира на первом этаже с южной ориентацией: 195 м² общей площади (144 м² жилой), 145 м² террас (107 м² крытых) и частный сад 55 м². Гостиная смотрит на сосновый лес, все спальни выходят на террасу и в сад.",
+     "lifestyle": "Три спальни, три ванные и гостевой туалет. Встроенные шкафы, кухня Bulthaup, техника Siemens и BORA, умный дом, тёплые полы, кондиционер на тепло и холод. Два парковочных места и кладовая. За воротами — круглосуточная охрана, консьерж, бассейны, спа, спортзал и 20-метровый бассейн. Комплекс по стандартам BREEAM. Гольф и международная школа в нескольких минутах, аэропорт Гибралтара — 20 км, Марбелья — около часа. Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.",
+     "invest": "Одна из последних квартир с садом во второй очереди. Цена €1 350 000, НДС не включён; кухня и шкафы входят, мебели нет. Долгосрочная аренда: сопоставимые квартиры с 3 спальнями в La Reserva — €3 000–3 200 в месяц, меблированная 4-спальная в Village Verde — €6 500; берём нижнюю границу. Туристической лицензии нет, краткосрок не считаем.",
+     "risk": "Квартира сдаётся без мебели, а аренда премиального сегмента зависит от спроса семей вокруг международной школы."
+    },
+    "de": {
+     "title": "Village Verde, La Reserva – fertige Eckwohnung mit Garten, 3 Schlafzimmer, 145-m²-Terrasse",
+     "summary": "Wohnung 8-0C in Village Verde – fertiggestellte, nach Süden ausgerichtete Eckwohnung im Erdgeschoss: 195 m² gesamt (144 m² Wohnfläche), 145 m² Terrassen (107 m² überdacht) und ein 55-m²-Privatgarten. Das Wohnzimmer blickt auf den Pinienwald, alle Schlafzimmer öffnen sich zu Terrasse und Garten.",
+     "lifestyle": "Drei Schlafzimmer, drei Bäder und Gäste-WC. Einbauschränke, Bulthaup-Küche, Geräte von Siemens und BORA, Smart Home, Fußbodenheizung, Klimaanlage für Wärme und Kälte. Zwei Stellplätze und ein Abstellraum. Hinter dem Tor – 24-Stunden-Sicherheitsdienst, Concierge, Pools, Spa, Fitnessraum und ein 20-Meter-Becken. Die Anlage ist nach BREEAM-Standards gebaut. Golf und internationale Schule wenige Minuten entfernt, Flughafen Gibraltar 20 km, Marbella rund eine Stunde. Wir bieten Online-Besichtigungen per Video und begleiten Sie durch den gesamten Kauf – von der Reservierung bis zum Notar – auf Englisch oder Russisch.",
+     "invest": "Eine der letzten Gartenwohnungen im zweiten Bauabschnitt. Preis 1.350.000 €, ohne MwSt.; Küche und Schränke inklusive, keine Möbel. Langzeitmiete: vergleichbare Wohnungen mit 3 Schlafzimmern in La Reserva – 3.000–3.200 € pro Monat, eine möblierte mit 4 Schlafzimmern in Village Verde – 6.500 €; wir nehmen die Untergrenze. Keine Touristenlizenz, Kurzzeitvermietung rechnen wir daher nicht.",
+     "risk": "Die Wohnung wird unmöbliert vermietet, und Mieten im Premiumsegment hängen von der Nachfrage von Familien rund um die internationale Schule ab."
+    },
+    "fr": {
+     "title": "Village Verde, La Reserva – appartement d'angle achevé avec jardin, 3 chambres, terrasse de 145 m²",
+     "summary": "Appartement 8-0C à Village Verde – appartement d'angle achevé en rez-de-chaussée, orienté sud : 195 m² au total (144 m² habitables), 145 m² de terrasses (107 m² couverts) et un jardin privé de 55 m². Le séjour donne sur la pinède, toutes les chambres s'ouvrent sur la terrasse et le jardin.",
+     "lifestyle": "Trois chambres, trois salles de bains et WC invités. Placards intégrés, cuisine Bulthaup, électroménager Siemens et BORA, maison connectée, chauffage au sol, climatisation chaud/froid. Deux places de parking et une cave. Derrière le portail – sécurité 24 h/24, conciergerie, piscines, spa, salle de sport et bassin de 20 mètres. L'ensemble est construit selon les standards BREEAM. Golf et école internationale à quelques minutes, aéroport de Gibraltar à 20 km, Marbella à environ une heure. Nous proposons des visites en ligne par vidéo et vous accompagnons pendant tout l'achat – de la réservation jusqu'au notaire – en anglais ou en russe.",
+     "invest": "L'un des derniers appartements avec jardin de la deuxième tranche. Prix 1 350 000 €, TVA non comprise ; cuisine et placards inclus, pas de mobilier. Location longue durée : des appartements comparables de 3 chambres à La Reserva se louent 3 000–3 200 € par mois, un 4 chambres meublé à Village Verde 6 500 € ; nous retenons le bas de la fourchette. Pas de licence touristique, nous ne comptons donc pas de location courte durée.",
+     "risk": "L'appartement se loue non meublé, et la location haut de gamme dépend de la demande des familles autour de l'école internationale."
+    },
+    "cs": {
+     "title": "Village Verde, La Reserva – dokončený rohový byt se zahradou, 3 ložnice, terasa 145 m²",
+     "summary": "Byt 8-0C ve Village Verde – dokončený rohový byt v přízemí orientovaný na jih: celkem 195 m² (144 m² obytné plochy), 145 m² teras (107 m² krytých) a soukromá zahrada 55 m². Obývací pokoj hledí do borového lesa, všechny ložnice vedou na terasu a do zahrady.",
+     "lifestyle": "Tři ložnice, tři koupelny a WC pro hosty. Vestavěné skříně, kuchyň Bulthaup, spotřebiče Siemens a BORA, chytrá domácnost, podlahové topení, klimatizace pro topení i chlazení. Dvě parkovací místa a sklep. Za branou – nepřetržitá ostraha, concierge, bazény, spa, posilovna a 20metrový bazén. Areál je postaven podle standardů BREEAM. Golf a mezinárodní škola pár minut odsud, letiště Gibraltar 20 km, Marbella asi hodinu. Nabízíme online prohlídky přes video a provedeme vás celým nákupem – od rezervace až k notáři – v angličtině nebo ruštině.",
+     "invest": "Jeden z posledních bytů se zahradou ve druhé etapě. Cena 1 350 000 € bez DPH; kuchyň a skříně v ceně, nábytek ne. Dlouhodobý pronájem: srovnatelné byty se 3 ložnicemi v La Reserva – 3 000–3 200 € měsíčně, zařízený byt se 4 ložnicemi ve Village Verde – 6 500 €; bereme spodní hranici. Turistická licence není, krátkodobý pronájem proto nepočítáme.",
+     "risk": "Byt se pronajímá nezařízený a nájmy v prémiovém segmentu závisí na poptávce rodin kolem mezinárodní školy."
+    }
+   }
+  },
+  {
+   "id": "gfc-3987679",
+   "cabinetId": null,
+   "ref": "GFC-3987679",
+   "type": "new",
+   "area": "sotogrande",
+   "town": "San Roque",
+   "price": 24000000,
+   "priceFrom": false,
+   "currency": "EUR",
+   "sqm": 3981,
+   "beds": 8,
+   "baths": 10,
+   "seaM": null,
+   "license": "no",
+   "communityMonth": null,
+   "ibiYear": null,
+   "insuranceYear": null,
+   "longRentMonth": 15000,
+   "adr": null,
+   "occLong": 0.85,
+   "occShort": null,
+   "mgmtLong": 0.08,
+   "mgmtShort": null,
+   "landUse": null,
+   "sellableSqm": null,
+   "buildCostSqm": null,
+   "exitSqm": null,
+   "contract": false,
+   "hidden": false,
+   "images": [
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/01.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/02.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/03.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/04.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/05.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/06.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/07.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/08.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/09.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/10.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/11.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/12.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/13.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/14.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/15.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/16.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/17.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/18.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/19.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987679/20.jpg"
+   ],
+   "i18n": {
+    "en": {
+     "title": "Villa NARA, The Seven, La Reserva – 8-suite villa project on a 10,451 m² plot",
+     "summary": "The NARA villa project (plot 4 in The Seven) at the highest point of La Reserva, Sotogrande, by ARK Architects (Manuel Ruiz Moriche). A 10,451 m² plot and 3,981 m² of built area over three floors, 3,351 m² of it living space; 8 suites and 10 bathrooms and toilets.",
+     "lifestyle": "Outdoor infinity pool, heated indoor pool and a spa with sauna, hammam, cryotherapy chamber and hyperbaric chamber. Gym, cinema, wine cellar, two home offices, staff apartment, lift and parking for 10 cars (6 covered, 4 open). Views of the coast. La Reserva is a gated club with security, golf and The Beach lagoon; an international school is a few minutes away. We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.",
+     "invest": "This is a project: the price of €24,000,000 = plot €8,900,000 + construction €15,100,000, VAT not included, furniture not included, licence on request. The rent on the card is an estimate of a long let after completion, at the top of the Sotogrande villa market (comparable 7–8-bedroom villas let for about €15,000 a month); there is no tourist licence, so we do not model short lets. A property of this class is bought mainly to live in; the yield is low.",
+     "risk": "The villa is not built yet: timing and final costs depend on the licence and construction, and rental demand for villas of this level is narrow."
+    },
+    "es": {
+     "title": "Villa NARA, The Seven, La Reserva – proyecto de villa con 8 suites en una parcela de 10.451 m²",
+     "summary": "Proyecto de la villa NARA (parcela 4 de The Seven) en el punto más alto de La Reserva, Sotogrande, de ARK Architects (Manuel Ruiz Moriche). Parcela de 10.451 m² y 3.981 m² construidos en tres plantas, de ellos 3.351 m² habitables; 8 suites y 10 baños y aseos.",
+     "lifestyle": "Piscina infinita exterior, piscina interior climatizada y spa con sauna, hammam, cámara de crioterapia y cámara hiperbárica. Gimnasio, cine, bodega, dos despachos, apartamento para el servicio, ascensor y aparcamiento para 10 coches (6 cubiertos y 4 descubiertos). Vistas a la costa. La Reserva es un club cerrado con seguridad, golf y la laguna The Beach; hay un colegio internacional a pocos minutos. Ofrecemos visitas online por vídeo y le acompañamos en toda la compra, desde la reserva hasta la notaría, en inglés o en ruso.",
+     "invest": "Es un proyecto: el precio de 24.000.000 € = parcela 8.900.000 € + construcción 15.100.000 €, IVA no incluido, muebles no incluidos, licencia a consultar. La renta de la ficha es una estimación de alquiler de larga estancia una vez terminada la obra, en la parte alta del mercado de villas de Sotogrande (villas comparables de 7–8 dormitorios se alquilan por unos 15.000 € al mes); no hay licencia turística, por lo que no calculamos alquiler vacacional. Un inmueble de esta categoría se compra sobre todo para vivir; la rentabilidad es baja.",
+     "risk": "La villa aún no está construida: los plazos y el coste final dependen de la licencia y de la obra, y la demanda de alquiler de villas de este nivel es estrecha."
+    },
+    "ru": {
+     "title": "Вилла NARA, The Seven, La Reserva — проект виллы с 8 сьютами на участке 10 451 м²",
+     "summary": "Проект виллы NARA (участок 4 в The Seven) на самой высокой точке La Reserva, Sotogrande, от ARK Architects (Manuel Ruiz Moriche). Участок 10 451 м², 3 981 м² общей площади на трёх этажах, из них 3 351 м² жилой; 8 сьютов, 10 ванных и туалетов.",
+     "lifestyle": "Внешний инфинити-бассейн, крытый подогреваемый бассейн и спа с сауной, хаммамом, криокамерой и барокамерой. Спортзал, кинозал, винный погреб, два домашних кабинета, апартаменты для персонала, лифт и парковка на 10 машин (6 крытых, 4 открытых). Вид на побережье. Закрытый клуб La Reserva с охраной, гольфом и лагуной The Beach; международная школа в нескольких минутах. Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.",
+     "invest": "Это проект: цена €24 000 000 = участок €8 900 000 + строительство €15 100 000, НДС не включён, мебель не включена, лицензия — по запросу. Аренда в карточке — оценка долгосрочной аренды после завершения строительства по верхней границе рынка вилл Sotogrande (сопоставимые виллы на 7–8 спален сдаются примерно за €15 000 в месяц); туристической лицензии нет, краткосрок не считаем. Объект такого класса покупают прежде всего для жизни, доходность низкая.",
+     "risk": "Объект ещё не построен: сроки и итоговые затраты зависят от лицензии и стройки, а спрос на аренду вилл такого уровня узкий."
+    },
+    "de": {
+     "title": "Villa NARA, The Seven, La Reserva – Villenprojekt mit 8 Suiten auf einem 10.451-m²-Grundstück",
+     "summary": "Das Villenprojekt NARA (Grundstück 4 in The Seven) am höchsten Punkt von La Reserva, Sotogrande, von ARK Architects (Manuel Ruiz Moriche). Grundstück 10.451 m², 3.981 m² Gesamtfläche auf drei Etagen, davon 3.351 m² Wohnfläche; 8 Suiten und 10 Bäder und WCs.",
+     "lifestyle": "Infinity-Pool im Freien, beheizter Innenpool und Spa mit Sauna, Hamam, Kältekammer und Druckkammer. Fitnessraum, Kino, Weinkeller, zwei Arbeitszimmer, Personalwohnung, Aufzug und Parkplätze für 10 Autos (6 überdacht, 4 offen). Blick auf die Küste. La Reserva ist ein geschlossener, bewachter Club mit Golf und der Lagune The Beach; eine internationale Schule ist wenige Minuten entfernt. Wir bieten Online-Besichtigungen per Video und begleiten Sie durch den gesamten Kauf – von der Reservierung bis zum Notar – auf Englisch oder Russisch.",
+     "invest": "Es handelt sich um ein Projekt: Preis 24.000.000 € = Grundstück 8.900.000 € + Bau 15.100.000 €, ohne MwSt., ohne Möbel, Lizenz auf Anfrage. Die Miete auf der Karte ist eine Schätzung der Langzeitmiete nach Fertigstellung am oberen Ende des Villenmarkts von Sotogrande (vergleichbare Villen mit 7–8 Schlafzimmern werden für rund 15.000 € im Monat vermietet); keine Touristenlizenz, Kurzzeitvermietung rechnen wir nicht. Eine Immobilie dieser Klasse kauft man vor allem zum Wohnen; die Rendite ist niedrig.",
+     "risk": "Die Villa ist noch nicht gebaut: Zeitplan und Endkosten hängen von Lizenz und Bau ab, und die Mietnachfrage für Villen dieses Niveaus ist schmal."
+    },
+    "fr": {
+     "title": "Villa NARA, The Seven, La Reserva – projet de villa de 8 suites sur un terrain de 10 451 m²",
+     "summary": "Projet de la villa NARA (lot 4 de The Seven) au point le plus haut de La Reserva, Sotogrande, signé ARK Architects (Manuel Ruiz Moriche). Terrain de 10 451 m² et 3 981 m² de surface totale sur trois niveaux, dont 3 351 m² habitables ; 8 suites et 10 salles de bains et WC.",
+     "lifestyle": "Piscine à débordement extérieure, piscine intérieure chauffée et spa avec sauna, hammam, cabine de cryothérapie et caisson hyperbare. Salle de sport, cinéma, cave à vin, deux bureaux, appartement du personnel, ascenseur et parking pour 10 voitures (6 couverts, 4 extérieurs). Vue sur la côte. La Reserva est un club fermé et gardé, avec golf et le lagon The Beach ; une école internationale se trouve à quelques minutes. Nous proposons des visites en ligne par vidéo et vous accompagnons pendant tout l'achat – de la réservation jusqu'au notaire – en anglais ou en russe.",
+     "invest": "Il s'agit d'un projet : prix 24 000 000 € = terrain 8 900 000 € + construction 15 100 000 €, TVA non comprise, mobilier non compris, licence sur demande. Le loyer de la fiche est une estimation de location longue durée après achèvement, au plus haut du marché des villas de Sotogrande (des villas comparables de 7–8 chambres se louent environ 15 000 € par mois) ; pas de licence touristique, nous ne comptons donc pas de location courte durée. Un bien de cette catégorie s'achète surtout pour y vivre ; le rendement est faible.",
+     "risk": "La villa n'est pas encore construite : délais et coût final dépendent de la licence et du chantier, et la demande locative pour des villas de ce niveau est étroite."
+    },
+    "cs": {
+     "title": "Vila NARA, The Seven, La Reserva – projekt vily s 8 apartmány na pozemku 10 451 m²",
+     "summary": "Projekt vily NARA (pozemek 4 v The Seven) na nejvyšším bodě La Reserva, Sotogrande, od ARK Architects (Manuel Ruiz Moriche). Pozemek 10 451 m² a celková plocha 3 981 m² ve třech podlažích, z toho 3 351 m² obytné plochy; 8 ložnic s vlastní koupelnou a 10 koupelen a WC.",
+     "lifestyle": "Venkovní infinity bazén, vyhřívaný krytý bazén a spa se saunou, hamamem, kryokomorou a barokomorou. Posilovna, kino, vinný sklep, dvě pracovny, byt pro personál, výtah a parkování pro 10 aut (6 krytých, 4 venkovní). Výhled na pobřeží. La Reserva je uzavřený hlídaný klub s golfem a lagunou The Beach; mezinárodní škola je pár minut odsud. Nabízíme online prohlídky přes video a provedeme vás celým nákupem – od rezervace až k notáři – v angličtině nebo ruštině.",
+     "invest": "Jde o projekt: cena 24 000 000 € = pozemek 8 900 000 € + výstavba 15 100 000 €, bez DPH, bez nábytku, licence na vyžádání. Nájem na kartě je odhad dlouhodobého pronájmu po dokončení na horní hranici trhu vil v Sotogrande (srovnatelné vily se 7–8 ložnicemi se pronajímají asi za 15 000 € měsíčně); turistická licence není, krátkodobý pronájem nepočítáme. Nemovitost této třídy se kupuje hlavně k bydlení; výnos je nízký.",
+     "risk": "Vila ještě není postavená: termíny a konečná cena závisí na licenci a výstavbě a poptávka po pronájmu vil této úrovně je úzká."
+    }
+   }
+  },
+  {
+   "id": "gfc-3987672",
+   "cabinetId": null,
+   "ref": "GFC-3987672",
+   "type": "new",
+   "area": "sotogrande",
+   "town": "San Roque",
+   "price": 13950000,
+   "priceFrom": false,
+   "currency": "EUR",
+   "sqm": 1825,
+   "beds": 7,
+   "baths": 10,
+   "seaM": null,
+   "license": "no",
+   "communityMonth": null,
+   "ibiYear": null,
+   "insuranceYear": null,
+   "longRentMonth": 13000,
+   "adr": null,
+   "occLong": 0.85,
+   "occShort": null,
+   "mgmtLong": 0.08,
+   "mgmtShort": null,
+   "landUse": null,
+   "sellableSqm": null,
+   "buildCostSqm": null,
+   "exitSqm": null,
+   "contract": false,
+   "hidden": false,
+   "images": [
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987672/01.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987672/02.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987672/03.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987672/04.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987672/05.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987672/06.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987672/07.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987672/08.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987672/09.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987672/10.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987672/11.jpg"
+   ],
+   "i18n": {
+    "en": {
+     "title": "Villa Dune, The Fifteen, La Reserva – 7-suite villa project with views to Gibraltar",
+     "summary": "A villa project on plot 6 in The Fifteen – the most private enclave of La Reserva, Sotogrande. A south-facing villa by ARK Architects (Manuel Ruiz Moriche) with views of the coast and Gibraltar: a 4,501 m² plot, 1,825 m² of built area, 1,557 m² of living space over two floors, 7 suites and 10 bathrooms and toilets.",
+     "lifestyle": "Outdoor infinity pool, indoor pool and spa, gym, home office, wine cellar, lift and 4 covered parking spaces. La Reserva is a gated club with security, golf and The Beach lagoon; an international school is a few minutes away. We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.",
+     "invest": "Price €13,950,000 = plot €4,000,000 + construction €9,950,000, VAT not included, furniture not included, licence on request. The rent is an estimate of a long let after completion: comparable 6–8-bedroom villas in La Reserva and Sotogrande are offered for about €15,000 a month; we take a lower figure. There is no tourist licence, so we do not model short lets.",
+     "risk": "The villa is not built yet: income will only come after construction, and the pool of tenants for a villa of this class is narrow."
+    },
+    "es": {
+     "title": "Villa Dune, The Fifteen, La Reserva – proyecto de villa con 7 suites y vistas a Gibraltar",
+     "summary": "Proyecto de villa en la parcela 6 de The Fifteen, el enclave más privado de La Reserva, Sotogrande. Villa orientada al sur de ARK Architects (Manuel Ruiz Moriche), con vistas a la costa y a Gibraltar: parcela de 4.501 m², 1.825 m² construidos, 1.557 m² habitables en dos plantas, 7 suites y 10 baños y aseos.",
+     "lifestyle": "Piscina infinita exterior, piscina interior y spa, gimnasio, despacho, bodega, ascensor y 4 plazas de aparcamiento cubiertas. La Reserva es un club cerrado con seguridad, golf y la laguna The Beach; hay un colegio internacional a pocos minutos. Ofrecemos visitas online por vídeo y le acompañamos en toda la compra, desde la reserva hasta la notaría, en inglés o en ruso.",
+     "invest": "Precio 13.950.000 € = parcela 4.000.000 € + construcción 9.950.000 €, IVA no incluido, muebles no incluidos, licencia a consultar. La renta es una estimación de alquiler de larga estancia una vez terminada la obra: villas comparables de 6–8 dormitorios en La Reserva y Sotogrande se ofrecen por unos 15.000 € al mes; tomamos una cifra inferior. No hay licencia turística, por lo que no calculamos alquiler vacacional.",
+     "risk": "La villa aún no está construida: el ingreso solo llegará tras la obra, y el abanico de inquilinos para una villa de esta categoría es estrecho."
+    },
+    "ru": {
+     "title": "Вилла Dune, The Fifteen, La Reserva — проект виллы с 7 сьютами и видом на Гибралтар",
+     "summary": "Проект виллы на участке 6 в The Fifteen — самом приватном анклаве La Reserva, Sotogrande. Вилла с южной ориентацией от ARK Architects (Manuel Ruiz Moriche), с видом на побережье и Гибралтар: участок 4 501 м², 1 825 м² общей площади, 1 557 м² жилой на двух этажах, 7 сьютов и 10 ванных и туалетов.",
+     "lifestyle": "Внешний инфинити-бассейн, крытый бассейн и спа, спортзал, домашний кабинет, винный погреб, лифт и 4 крытых парковочных места. Закрытый клуб La Reserva с охраной, гольфом и лагуной The Beach; международная школа в нескольких минутах. Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.",
+     "invest": "Цена €13 950 000 = участок €4 000 000 + строительство €9 950 000, НДС не включён, мебель не включена, лицензия — по запросу. Аренда — оценка долгосрочной аренды после завершения: сопоставимые виллы на 6–8 спален в La Reserva и Sotogrande предлагаются примерно за €15 000 в месяц, мы берём ниже. Туристической лицензии нет, краткосрок не считаем.",
+     "risk": "Объект ещё не построен: доход появится только после строительства, а круг арендаторов для виллы такого класса узкий."
+    },
+    "de": {
+     "title": "Villa Dune, The Fifteen, La Reserva – Villenprojekt mit 7 Suiten und Blick auf Gibraltar",
+     "summary": "Villenprojekt auf Grundstück 6 in The Fifteen – der privatesten Enklave von La Reserva, Sotogrande. Nach Süden ausgerichtete Villa von ARK Architects (Manuel Ruiz Moriche) mit Blick auf die Küste und Gibraltar: Grundstück 4.501 m², 1.825 m² Gesamtfläche, 1.557 m² Wohnfläche auf zwei Etagen, 7 Suiten und 10 Bäder und WCs.",
+     "lifestyle": "Infinity-Pool im Freien, Innenpool und Spa, Fitnessraum, Arbeitszimmer, Weinkeller, Aufzug und 4 überdachte Stellplätze. La Reserva ist ein geschlossener, bewachter Club mit Golf und der Lagune The Beach; eine internationale Schule ist wenige Minuten entfernt. Wir bieten Online-Besichtigungen per Video und begleiten Sie durch den gesamten Kauf – von der Reservierung bis zum Notar – auf Englisch oder Russisch.",
+     "invest": "Preis 13.950.000 € = Grundstück 4.000.000 € + Bau 9.950.000 €, ohne MwSt., ohne Möbel, Lizenz auf Anfrage. Die Miete ist eine Schätzung der Langzeitmiete nach Fertigstellung: vergleichbare Villen mit 6–8 Schlafzimmern in La Reserva und Sotogrande werden für rund 15.000 € im Monat angeboten, wir setzen niedriger an. Keine Touristenlizenz, Kurzzeitvermietung rechnen wir nicht.",
+     "risk": "Die Villa ist noch nicht gebaut: Einnahmen entstehen erst nach dem Bau, und der Kreis der Mieter für eine Villa dieser Klasse ist eng."
+    },
+    "fr": {
+     "title": "Villa Dune, The Fifteen, La Reserva – projet de villa de 7 suites avec vue sur Gibraltar",
+     "summary": "Projet de villa sur le lot 6 de The Fifteen – l'enclave la plus privée de La Reserva, Sotogrande. Villa orientée sud signée ARK Architects (Manuel Ruiz Moriche), avec vue sur la côte et Gibraltar : terrain de 4 501 m², 1 825 m² de surface totale, 1 557 m² habitables sur deux niveaux, 7 suites et 10 salles de bains et WC.",
+     "lifestyle": "Piscine à débordement extérieure, piscine intérieure et spa, salle de sport, bureau, cave à vin, ascenseur et 4 places de parking couvertes. La Reserva est un club fermé et gardé, avec golf et le lagon The Beach ; une école internationale se trouve à quelques minutes. Nous proposons des visites en ligne par vidéo et vous accompagnons pendant tout l'achat – de la réservation jusqu'au notaire – en anglais ou en russe.",
+     "invest": "Prix 13 950 000 € = terrain 4 000 000 € + construction 9 950 000 €, TVA non comprise, mobilier non compris, licence sur demande. Le loyer est une estimation de location longue durée après achèvement : des villas comparables de 6–8 chambres à La Reserva et Sotogrande sont proposées autour de 15 000 € par mois, nous retenons moins. Pas de licence touristique, nous ne comptons donc pas de location courte durée.",
+     "risk": "La villa n'est pas encore construite : le revenu n'arrivera qu'après la construction, et le cercle de locataires pour une villa de cette catégorie est étroit."
+    },
+    "cs": {
+     "title": "Vila Dune, The Fifteen, La Reserva – projekt vily se 7 apartmány a výhledem na Gibraltar",
+     "summary": "Projekt vily na pozemku 6 v The Fifteen – nejsoukromější enklávě La Reserva, Sotogrande. Vila orientovaná na jih od ARK Architects (Manuel Ruiz Moriche) s výhledem na pobřeží a Gibraltar: pozemek 4 501 m², celková plocha 1 825 m², 1 557 m² obytné plochy ve dvou podlažích, 7 ložnic s vlastní koupelnou a 10 koupelen a WC.",
+     "lifestyle": "Venkovní infinity bazén, krytý bazén a spa, posilovna, pracovna, vinný sklep, výtah a 4 krytá parkovací místa. La Reserva je uzavřený hlídaný klub s golfem a lagunou The Beach; mezinárodní škola je pár minut odsud. Nabízíme online prohlídky přes video a provedeme vás celým nákupem – od rezervace až k notáři – v angličtině nebo ruštině.",
+     "invest": "Cena 13 950 000 € = pozemek 4 000 000 € + výstavba 9 950 000 €, bez DPH, bez nábytku, licence na vyžádání. Nájem je odhad dlouhodobého pronájmu po dokončení: srovnatelné vily se 6–8 ložnicemi v La Reserva a Sotogrande se nabízejí kolem 15 000 € měsíčně, my počítáme s nižší částkou. Turistická licence není, krátkodobý pronájem nepočítáme.",
+     "risk": "Vila ještě není postavená: příjem přijde až po výstavbě a okruh nájemníků pro vilu této třídy je úzký."
+    }
+   }
+  },
+  {
+   "id": "gfc-3987641",
+   "cabinetId": null,
+   "ref": "GFC-3987641",
+   "type": "new",
+   "area": "sotogrande",
+   "town": "San Roque",
+   "price": 6300000,
+   "priceFrom": false,
+   "currency": "EUR",
+   "sqm": 949,
+   "beds": 4,
+   "baths": 4,
+   "seaM": null,
+   "license": "no",
+   "communityMonth": null,
+   "ibiYear": null,
+   "insuranceYear": null,
+   "longRentMonth": 9000,
+   "adr": null,
+   "occLong": 0.85,
+   "occShort": null,
+   "mgmtLong": 0.08,
+   "mgmtShort": null,
+   "landUse": null,
+   "sellableSqm": null,
+   "buildCostSqm": null,
+   "exitSqm": null,
+   "contract": false,
+   "hidden": false,
+   "images": [
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/01.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/02.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/03.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/04.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/05.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/06.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/07.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/08.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/09.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/10.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/11.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/12.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/13.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/14.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/15.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987641/16.jpg"
+   ],
+   "i18n": {
+    "en": {
+     "title": "Villa Retiro, La Reserva – 4 suites with views of the sea, golf and Gibraltar",
+     "summary": "Villa Retiro stands on one of the highest points of Sotogrande, in La Reserva: from the terrace you see the golf course, the Mediterranean, the Rock of Gibraltar and the north coast of Africa. A 2,882 m² plot, 783 m² of living space over three floors with a lift, and 459 m² of terraces.",
+     "lifestyle": "4 en-suite bedrooms, 3 guest toilets and a 133 m² south-facing infinity pool. Lower floor – garage, gym and laundry; middle floor – living room, kitchen and master bedroom opening onto the garden; upper floor – three suites, each with its own terrace. Gated club with security, golf, padel courts and The Beach lagoon; an international school a few minutes away. We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.",
+     "invest": "Price €6,300,000, VAT not included, furniture not included. The construction stage is not stated in our source – being clarified; the rent is an estimate of a long let after completion and furnishing. Comparable villas in Sotogrande: 4–5 bedrooms let for €6,500–12,000 a month; we take the middle. There is no tourist licence, so we do not model short lets.",
+     "risk": "The stage of completion is not confirmed, and renting villas of this class is a narrow market with possible vacancies."
+    },
+    "es": {
+     "title": "Villa Retiro, La Reserva – 4 suites con vistas al mar, al golf y a Gibraltar",
+     "summary": "Villa Retiro, en uno de los puntos más altos de Sotogrande, en La Reserva: desde la terraza se ven el golf, el Mediterráneo, el Peñón de Gibraltar y la costa norte de África. Parcela de 2.882 m², 783 m² habitables en tres plantas con ascensor y 459 m² de terrazas.",
+     "lifestyle": "4 dormitorios con baño, 3 aseos de cortesía y piscina infinita de 133 m² orientada al sur. Planta inferior: garaje, gimnasio y lavandería; planta intermedia: salón, cocina y dormitorio principal con salida al jardín; planta superior: tres suites, cada una con su terraza. Club cerrado con seguridad, golf, pistas de pádel y la laguna The Beach; colegio internacional a pocos minutos. Ofrecemos visitas online por vídeo y le acompañamos en toda la compra, desde la reserva hasta la notaría, en inglés o en ruso.",
+     "invest": "Precio 6.300.000 €, IVA no incluido, muebles no incluidos. La fase de obra no figura en nuestra fuente y se está aclarando; la renta es una estimación de alquiler de larga estancia una vez terminada y amueblada. Villas comparables en Sotogrande: las de 4–5 dormitorios se alquilan por 6.500–12.000 € al mes; tomamos el punto medio. No hay licencia turística, por lo que no calculamos alquiler vacacional.",
+     "risk": "La fase de obra no está confirmada, y el alquiler de villas de esta categoría es un mercado estrecho con posibles periodos vacíos."
+    },
+    "ru": {
+     "title": "Вилла Retiro, La Reserva — 4 сьюта с видом на море, гольф и Гибралтар",
+     "summary": "Вилла Retiro на одной из самых высоких точек Sotogrande, в La Reserva: с террасы видны гольф, Средиземное море, Гибралтарская скала и северный берег Африки. Участок 2 882 м², 783 м² жилой площади на трёх этажах с лифтом и 459 м² террас.",
+     "lifestyle": "4 спальни с ванными, 3 гостевых туалета и инфинити-бассейн 133 м² с южной ориентацией. Нижний этаж — гараж, спортзал и прачечная; средний — гостиная, кухня и главная спальня с выходом в сад; верхний — три сьюта, у каждого своя терраса. Закрытый клуб с охраной, гольфом, падел-кортами и лагуной The Beach; международная школа в нескольких минутах. Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.",
+     "invest": "Цена €6 300 000, НДС не включён, мебель не включена. Стадия строительства в нашем источнике не указана — уточняется; аренда — оценка долгосрочной аренды после завершения и меблировки. Сопоставимые виллы в Sotogrande: 4–5 спален сдаются за €6 500–12 000 в месяц, берём середину. Туристической лицензии нет, краткосрок не считаем.",
+     "risk": "Стадия готовности не подтверждена, а аренда вилл такого класса — узкий рынок с возможными простоями."
+    },
+    "de": {
+     "title": "Villa Retiro, La Reserva – 4 Suiten mit Blick auf Meer, Golf und Gibraltar",
+     "summary": "Villa Retiro auf einem der höchsten Punkte von Sotogrande, in La Reserva: Von der Terrasse sieht man den Golfplatz, das Mittelmeer, den Felsen von Gibraltar und die Nordküste Afrikas. Grundstück 2.882 m², 783 m² Wohnfläche auf drei Etagen mit Aufzug und 459 m² Terrassen.",
+     "lifestyle": "4 Schlafzimmer mit eigenem Bad, 3 Gäste-WCs und ein 133-m²-Infinity-Pool mit Südausrichtung. Untere Etage – Garage, Fitnessraum und Waschküche; mittlere – Wohnzimmer, Küche und Hauptschlafzimmer mit Zugang zum Garten; obere – drei Suiten mit jeweils eigener Terrasse. Geschlossener Club mit Sicherheitsdienst, Golf, Padelplätzen und der Lagune The Beach; eine internationale Schule wenige Minuten entfernt. Wir bieten Online-Besichtigungen per Video und begleiten Sie durch den gesamten Kauf – von der Reservierung bis zum Notar – auf Englisch oder Russisch.",
+     "invest": "Preis 6.300.000 €, ohne MwSt., ohne Möbel. Der Baustand ist in unserer Quelle nicht angegeben – wird geklärt; die Miete ist eine Schätzung der Langzeitmiete nach Fertigstellung und Möblierung. Vergleichbare Villen in Sotogrande: 4–5 Schlafzimmer werden für 6.500–12.000 € im Monat vermietet, wir nehmen die Mitte. Keine Touristenlizenz, Kurzzeitvermietung rechnen wir nicht.",
+     "risk": "Der Fertigstellungsstand ist nicht bestätigt, und die Vermietung von Villen dieser Klasse ist ein enger Markt mit möglichem Leerstand."
+    },
+    "fr": {
+     "title": "Villa Retiro, La Reserva – 4 suites avec vue sur la mer, le golf et Gibraltar",
+     "summary": "La villa Retiro, sur l'un des points les plus hauts de Sotogrande, à La Reserva : depuis la terrasse, on voit le golf, la Méditerranée, le rocher de Gibraltar et la côte nord de l'Afrique. Terrain de 2 882 m², 783 m² habitables sur trois niveaux avec ascenseur et 459 m² de terrasses.",
+     "lifestyle": "4 chambres avec salle de bains, 3 WC invités et une piscine à débordement de 133 m² orientée sud. Niveau inférieur – garage, salle de sport et buanderie ; niveau intermédiaire – séjour, cuisine et chambre principale avec accès au jardin ; niveau supérieur – trois suites, chacune avec sa terrasse. Club fermé avec sécurité, golf, courts de padel et le lagon The Beach ; une école internationale à quelques minutes. Nous proposons des visites en ligne par vidéo et vous accompagnons pendant tout l'achat – de la réservation jusqu'au notaire – en anglais ou en russe.",
+     "invest": "Prix 6 300 000 €, TVA non comprise, mobilier non compris. Le stade de construction n'est pas indiqué dans notre source – en cours de vérification ; le loyer est une estimation de location longue durée après achèvement et ameublement. Villas comparables à Sotogrande : les 4–5 chambres se louent 6 500–12 000 € par mois, nous retenons le milieu. Pas de licence touristique, nous ne comptons donc pas de location courte durée.",
+     "risk": "Le stade d'achèvement n'est pas confirmé, et la location de villas de cette catégorie est un marché étroit avec des périodes de vacance possibles."
+    },
+    "cs": {
+     "title": "Vila Retiro, La Reserva – 4 apartmány s výhledem na moře, golf a Gibraltar",
+     "summary": "Vila Retiro na jednom z nejvyšších bodů Sotogrande, v La Reserva: z terasy je vidět golfové hřiště, Středozemní moře, Gibraltarská skála a severní pobřeží Afriky. Pozemek 2 882 m², 783 m² obytné plochy ve třech podlažích s výtahem a 459 m² teras.",
+     "lifestyle": "4 ložnice s vlastní koupelnou, 3 WC pro hosty a infinity bazén 133 m² orientovaný na jih. Spodní podlaží – garáž, posilovna a prádelna; prostřední – obývací pokoj, kuchyň a hlavní ložnice s výstupem do zahrady; horní – tři ložnice s koupelnou, každá s vlastní terasou. Uzavřený klub s ostrahou, golfem, padelovými kurty a lagunou The Beach; mezinárodní škola pár minut odsud. Nabízíme online prohlídky přes video a provedeme vás celým nákupem – od rezervace až k notáři – v angličtině nebo ruštině.",
+     "invest": "Cena 6 300 000 € bez DPH, bez nábytku. Stav výstavby náš zdroj neuvádí – ověřujeme; nájem je odhad dlouhodobého pronájmu po dokončení a zařízení. Srovnatelné vily v Sotogrande: se 4–5 ložnicemi se pronajímají za 6 500–12 000 € měsíčně, bereme střed. Turistická licence není, krátkodobý pronájem nepočítáme.",
+     "risk": "Stav dokončení není potvrzený a pronájem vil této třídy je úzký trh s možnými obdobími bez nájemníka."
+    }
+   }
+  },
+  {
+   "id": "gfc-capri",
+   "cabinetId": "obj-mvpefc0d",
+   "ref": "GFC-CAPRI",
+   "type": "new",
+   "area": "estepona",
+   "town": "Estepona",
+   "price": 379000,
+   "priceFrom": true,
+   "currency": "EUR",
+   "sqm": 101,
+   "beds": 2,
+   "baths": null,
+   "seaM": null,
+   "license": "no",
+   "communityMonth": null,
+   "ibiYear": null,
+   "insuranceYear": null,
+   "longRentMonth": null,
+   "adr": null,
+   "occLong": null,
+   "occShort": null,
+   "mgmtLong": null,
+   "mgmtShort": null,
+   "landUse": null,
+   "sellableSqm": null,
+   "buildCostSqm": null,
+   "exitSqm": null,
+   "contract": false,
+   "hidden": false,
+   "images": [
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-CAPRI/01.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-CAPRI/02.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-CAPRI/03.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-CAPRI/04.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-CAPRI/05.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-CAPRI/06.jpg"
+   ],
+   "i18n": {
+    "en": {
+     "title": "Capri by Kronos Homes, Estepona – new 2- and 3-bedroom apartments and penthouses",
+     "summary": "Capri is a new Kronos Homes development in Estepona (La Resina), on the New Golden Mile, by the River Guadalmansa, with views of the Mediterranean; architecture by TAU 2000 (Óscar Puga). Phase 3 is on sale: 2- and 3-bedroom apartments and penthouses from €379,000 + VAT, 101–152 m² built including common areas, terraces of 15–146 m². Ground-floor homes have private gardens and penthouses have solariums; every home comes with a parking space. Completion according to the developer: phase 1 – Q4 2026, phase 2 – Q1 2027, phase 3 – Q3 2029.",
+     "lifestyle": "The living room and kitchen open onto the terrace. Kitchens are fully equipped: oven, microwave, induction hob, extractor hood, fridge and dishwasher. Ducted hot and cold air conditioning, hot water from aerothermal energy, motorised blinds in the living room and master bedroom, built-in wardrobes, large-format wood-look flooring, video door entry. On site – landscaped gardens, two outdoor pools, a spa with a hydromassage pool, a cold-water plunge pool and a sauna, a fully equipped gym and a co-working space with a kitchenette; automatic gate and access control, and the development will have a BREEAM rating. La Resina golf club, Selwo Aventura, supermarkets and pharmacies nearby; according to the developer, about 10 minutes to Puerto Banús and less than 45 minutes to Málaga airport. We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.",
+     "invest": "Prices in the developer's price list of 26.10.2026 are net, excluding VAT and other taxes. Payment plan (developer's terms): reservation €6,600 including VAT; 25% + VAT on signing the private contract, minus the reservation; 10% + VAT six months later; 65% + VAT on signing the deed at the notary. We do not calculate a yield: the developer gives no data on rent, community fees or IBI.",
+     "risk": "Prices and availability change quickly, and phase 3 is due, according to the developer's plan, only in Q3 2029."
+    },
+    "es": {
+     "title": "Capri de Kronos Homes, Estepona – pisos y áticos nuevos de 2 y 3 dormitorios",
+     "summary": "Capri es una nueva promoción de Kronos Homes en Estepona (La Resina), en la Nueva Milla de Oro, junto al río Guadalmansa, con vistas al Mediterráneo; arquitectura de TAU 2000 (Óscar Puga). A la venta la fase 3: pisos y áticos de 2 y 3 dormitorios desde 379.000 € + IVA, de 101 a 152 m² construidos con zonas comunes, terrazas de 15 a 146 m². Los bajos tienen jardín privado y los áticos, solárium; cada vivienda incluye plaza de aparcamiento. Fin de obra según el promotor: fase 1, 4.º trimestre de 2026; fase 2, 1.er trimestre de 2027; fase 3, 3.er trimestre de 2029.",
+     "lifestyle": "El salón con cocina se abre a la terraza. Cocinas totalmente equipadas: horno, microondas, placa de inducción, campana, frigorífico y lavavajillas. Aire acondicionado por conductos frío/calor, agua caliente por aerotermia, persianas motorizadas en el salón y el dormitorio principal, armarios empotrados, suelo de gran formato imitación madera, videoportero. En el recinto: jardines paisajísticos, dos piscinas exteriores, spa con piscina con zona de hidromasaje, pileta de agua fría y sauna, gimnasio equipado y coworking con office; puerta de acceso automática y control de accesos, y la promoción contará con certificación BREEAM. Cerca, La Resina Golf, Selwo Aventura, supermercados y farmacias; según el promotor, unos 10 minutos a Puerto Banús y menos de 45 minutos al aeropuerto de Málaga. Ofrecemos visitas online por vídeo y le acompañamos en toda la compra, desde la reserva hasta la notaría, en inglés o en ruso.",
+     "invest": "Los precios de la lista del promotor del 26.10.2026 son netos, sin IVA ni otros impuestos. Plan de pagos según las condiciones del promotor: reserva de 6.600 € con IVA; 25 % + IVA a la firma del contrato privado, descontando la reserva; 10 % + IVA a los 6 meses; 65 % + IVA a la firma de la escritura ante notario. No calculamos rentabilidad: el promotor no facilita datos de alquiler, comunidad ni IBI.",
+     "risk": "Los precios y la disponibilidad cambian rápido, y la entrega de la fase 3, según el plan del promotor, no llega hasta el 3.er trimestre de 2029."
+    },
+    "ru": {
+     "title": "Capri от Kronos Homes, Эстепона — новые квартиры и пентхаусы с 2–3 спальнями",
+     "summary": "Capri – новый жилой комплекс Kronos Homes в Эстепоне (La Resina), на Новой Золотой миле, у реки Гуадальманса, с видом на Средиземное море; архитектура – TAU 2000 (Óscar Puga). В продаже 3-я фаза: квартиры и пентхаусы с 2 и 3 спальнями от 379 000 € + НДС, площадью 101–152 м² с долей общих зон, террасы 15–146 м². У квартир первого этажа свои сады, у пентхаусов – солярии; к каждой квартире прилагается машиноместо. Окончание строительства по данным застройщика: 1-я фаза – IV кв. 2026, 2-я – I кв. 2027, 3-я – III кв. 2029 года.",
+     "lifestyle": "Гостиная с кухней открывается на террасу. Кухни полностью оборудованы: духовка, микроволновка, индукционная панель, вытяжка, холодильник и посудомоечная машина. Канальный кондиционер на тепло и холод, горячая вода от аэротермии, электрические жалюзи в гостиной и главной спальне, встроенные шкафы, крупноформатный пол под дерево, видеодомофон. На территории – ландшафтные сады, два открытых бассейна, спа с бассейном с зоной гидромассажа, купелью с холодной водой и сауной, оборудованный спортзал и коворкинг с мини-кухней; автоматические ворота и контроль доступа, комплекс получит сертификат BREEAM. Рядом гольф-клуб La Resina, Selwo Aventura, супермаркеты и аптеки; по данным застройщика около 10 минут до Пуэрто-Бануса и меньше 45 минут до аэропорта Малаги. Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.",
+     "invest": "Цены в прайсе застройщика от 26.10.2026 – нетто, без НДС и других налогов. График оплаты по условиям застройщика: бронь 6 600 € с НДС; 25% + НДС при подписании частного договора за вычетом брони; 10% + НДС через 6 месяцев; 65% + НДС при подписании купчей у нотариуса. Доходность не рассчитываем: застройщик не даёт данных по аренде, комьюнити и IBI.",
+     "risk": "Цены и наличие квартир быстро меняются, а сдача 3-й фазы по плану застройщика – только в III квартале 2029 года."
+    },
+    "de": {
+     "title": "Capri von Kronos Homes, Estepona – neue Wohnungen und Penthäuser mit 2–3 Schlafzimmern",
+     "summary": "Capri ist eine neue Wohnanlage von Kronos Homes in Estepona (La Resina), an der New Golden Mile, am Fluss Guadalmansa, mit Blick auf das Mittelmeer; Architektur von TAU 2000 (Óscar Puga). Im Verkauf ist Phase 3: Wohnungen und Penthäuser mit 2 und 3 Schlafzimmern ab 379.000 € + MwSt., 101–152 m² inklusive Gemeinschaftsflächenanteil, Terrassen von 15–146 m². Erdgeschosswohnungen haben eigene Gärten, Penthäuser Solarien; zu jeder Wohnung gehört ein Stellplatz. Fertigstellung laut Bauträger: Phase 1 – Q4 2026, Phase 2 – Q1 2027, Phase 3 – Q3 2029.",
+     "lifestyle": "Wohnzimmer und Küche öffnen sich zur Terrasse. Voll ausgestattete Küchen: Backofen, Mikrowelle, Induktionskochfeld, Dunstabzug, Kühlschrank und Geschirrspüler. Kanal-Klimaanlage für Wärme und Kälte, Warmwasser über Aerothermie, elektrische Rollläden im Wohnzimmer und Hauptschlafzimmer, Einbauschränke, großformatiger Boden in Holzoptik, Video-Gegensprechanlage. Auf dem Gelände – angelegte Gärten, zwei Außenpools, ein Spa mit Pool mit Whirlpoolbereich, Kaltwasserbecken und Sauna, ein ausgestatteter Fitnessraum und ein Co-Working-Bereich mit Teeküche; automatisches Tor und Zugangskontrolle, die Anlage erhält eine BREEAM-Zertifizierung. In der Nähe der Golfclub La Resina, Selwo Aventura, Supermärkte und Apotheken; laut Bauträger rund 10 Minuten nach Puerto Banús und weniger als 45 Minuten zum Flughafen Málaga. Wir bieten Online-Besichtigungen per Video und begleiten Sie durch den gesamten Kauf – von der Reservierung bis zum Notar – auf Englisch oder Russisch.",
+     "invest": "Die Preise in der Preisliste des Bauträgers vom 26.10.2026 sind netto, ohne MwSt. und andere Steuern. Zahlungsplan nach den Bedingungen des Bauträgers: Reservierung 6.600 € inkl. MwSt.; 25 % + MwSt. bei Unterzeichnung des privaten Kaufvertrags abzüglich der Reservierung; 10 % + MwSt. nach 6 Monaten; 65 % + MwSt. bei der Beurkundung beim Notar. Eine Rendite berechnen wir nicht: Der Bauträger liefert keine Daten zu Miete, Hausgeld und IBI.",
+     "risk": "Preise und Verfügbarkeit ändern sich schnell, und die Übergabe von Phase 3 ist laut Plan des Bauträgers erst im 3. Quartal 2029."
+    },
+    "fr": {
+     "title": "Capri par Kronos Homes, Estepona – appartements et penthouses neufs de 2 à 3 chambres",
+     "summary": "Capri est une nouvelle résidence de Kronos Homes à Estepona (La Resina), sur le New Golden Mile, près de la rivière Guadalmansa, avec vue sur la Méditerranée ; architecture TAU 2000 (Óscar Puga). La phase 3 est en vente : appartements et penthouses de 2 et 3 chambres à partir de 379 000 € + TVA, de 101 à 152 m² parties communes comprises, terrasses de 15 à 146 m². Les rez-de-chaussée ont un jardin privatif, les penthouses un solarium ; chaque logement est vendu avec une place de parking. Achèvement selon le promoteur : phase 1 – T4 2026, phase 2 – T1 2027, phase 3 – T3 2029.",
+     "lifestyle": "Le séjour avec cuisine s'ouvre sur la terrasse. Cuisines entièrement équipées : four, micro-ondes, plaque à induction, hotte, réfrigérateur et lave-vaisselle. Climatisation gainable chaud/froid, eau chaude par aérothermie, volets motorisés dans le séjour et la chambre principale, placards intégrés, sol grand format imitation bois, visiophone. Sur le site – jardins paysagers, deux piscines extérieures, un spa avec bassin et zone d'hydromassage, bassin d'eau froide et sauna, une salle de sport équipée et un espace de coworking avec kitchenette ; portail automatique et contrôle d'accès, et la résidence obtiendra la certification BREEAM. À proximité, le golf de La Resina, Selwo Aventura, supermarchés et pharmacies ; selon le promoteur, environ 10 minutes jusqu'à Puerto Banús et moins de 45 minutes jusqu'à l'aéroport de Málaga. Nous proposons des visites en ligne par vidéo et vous accompagnons pendant tout l'achat – de la réservation jusqu'au notaire – en anglais ou en russe.",
+     "invest": "Les prix de la grille du promoteur du 26.10.2026 sont nets, hors TVA et autres taxes. Échéancier selon les conditions du promoteur : réservation de 6 600 € TTC ; 25 % + TVA à la signature du contrat privé, réservation déduite ; 10 % + TVA six mois plus tard ; 65 % + TVA à la signature de l'acte chez le notaire. Nous ne calculons pas de rendement : le promoteur ne fournit pas de données sur le loyer, les charges de copropriété ni l'IBI.",
+     "risk": "Les prix et la disponibilité changent vite, et la livraison de la phase 3 n'est prévue par le promoteur qu'au 3e trimestre 2029."
+    },
+    "cs": {
+     "title": "Capri od Kronos Homes, Estepona – nové byty a penthousy se 2–3 ložnicemi",
+     "summary": "Capri je nový rezidenční areál od Kronos Homes v Esteponě (La Resina), na New Golden Mile, u řeky Guadalmansa, s výhledem na Středozemní moře; architektura TAU 2000 (Óscar Puga). V prodeji je 3. fáze: byty a penthousy se 2 a 3 ložnicemi od 379 000 € + DPH, 101–152 m² včetně podílu na společných prostorách, terasy 15–146 m². Byty v přízemí mají soukromé zahrady, penthousy solária; ke každému bytu patří parkovací místo. Dokončení podle developera: 1. fáze – Q4 2026, 2. fáze – Q1 2027, 3. fáze – Q3 2029.",
+     "lifestyle": "Obývací pokoj s kuchyní vede na terasu. Plně vybavené kuchyně: trouba, mikrovlnka, indukční deska, digestoř, lednice a myčka. Kanálová klimatizace pro topení i chlazení, ohřev vody tepelným čerpadlem (aerotermie), elektrické rolety v obývacím pokoji a hlavní ložnici, vestavěné skříně, velkoformátová podlaha s imitací dřeva, videotelefon. V areálu – upravené zahrady, dva venkovní bazény, spa s bazénem s hydromasážní zónou, studeným bazénkem a saunou, vybavená posilovna a coworkingová zóna s kuchyňkou; automatická brána a kontrola přístupu, areál získá certifikaci BREEAM. Poblíž golfový klub La Resina, Selwo Aventura, supermarkety a lékárny; podle developera asi 10 minut do Puerto Banús a méně než 45 minut na letiště Málaga. Nabízíme online prohlídky přes video a provedeme vás celým nákupem – od rezervace až k notáři – v angličtině nebo ruštině.",
+     "invest": "Ceny v ceníku developera z 26.10.2026 jsou čisté, bez DPH a dalších daní. Splátkový kalendář podle podmínek developera: rezervace 6 600 € včetně DPH; 25 % + DPH při podpisu soukromé smlouvy po odečtení rezervace; 10 % + DPH o šest měsíců později; 65 % + DPH při podpisu u notáře. Výnos nepočítáme: developer neposkytuje údaje o nájmu, poplatcích společenství ani IBI.",
+     "risk": "Ceny a dostupnost se rychle mění a předání 3. fáze developer plánuje až na 3. čtvrtletí 2029."
+    }
+   }
+  },
+  {
+   "id": "gfc-kosmos",
+   "cabinetId": "obj-mvpej8ym",
+   "ref": "GFC-KOSMOS",
+   "type": "new",
+   "area": "malaga",
+   "town": "Torremolinos",
+   "price": 405000,
+   "priceFrom": true,
+   "currency": "EUR",
+   "sqm": 119,
+   "beds": 2,
+   "baths": 2,
+   "seaM": null,
+   "license": "no",
+   "communityMonth": null,
+   "ibiYear": null,
+   "insuranceYear": null,
+   "longRentMonth": 1600,
+   "adr": null,
+   "occLong": 0.9,
+   "occShort": null,
+   "mgmtLong": 0.08,
+   "mgmtShort": null,
+   "landUse": null,
+   "sellableSqm": null,
+   "buildCostSqm": null,
+   "exitSqm": null,
+   "contract": false,
+   "hidden": false,
+   "images": [
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-KOSMOS/01.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-KOSMOS/02.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-KOSMOS/03.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-KOSMOS/04.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-KOSMOS/05.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-KOSMOS/06.jpg"
+   ],
+   "i18n": {
+    "en": {
+     "title": "KOSMOS by Kronos Homes, Torremolinos – new 2- and 3-bedroom apartments with sea views",
+     "summary": "KOSMOS is a new Kronos Homes complex in Torremolinos, at the foot of the Pinar del Moro pine forest, with sea views; designed by HCP Arquitectos. The complex has 104 apartments with 2 and 3 bedrooms, each with a parking space and a storage room. Construction has started; completion is planned by the developer for Q4 2028. The developer's price list of 01.10.2026 lists 20 homes: from €405,000 (2 bedrooms, 2 bathrooms, ground floor, 119 m² built including common areas, 84 m² of useful space, 19.6 m² terrace) up to €802,000 (3-bedroom penthouse).",
+     "lifestyle": "Ground-floor homes open onto greenery, and penthouses have large terraces. The living room and kitchen open onto the terrace, the bedrooms are in a separate zone, and there is a home automation system. On site – an outdoor pool and a heated indoor pool, a spa, a fully equipped gym and a co-working space with a kitchen. The Montemar suburban train station and the beaches of La Carihuela and Playamar are nearby; according to the developer, Málaga city centre is about 10 minutes by car and the airport about 5 minutes. We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.",
+     "invest": "The price of €405,000 is from the developer's price list of 01.10.2026; taxes are not stated in the price list (we are checking with the developer), and the site adds them to the all-in calculation. The rent on the card is a conservative estimate of a long let for a 2-bed, 2-bath apartment after completion in 2028: the Fotocasa index for Torremolinos for October 2026 is €18/m² (Montemar €17/m², El Pinillo €15/m²); comparable 2-bed, 2-bath apartments let for €1,450–2,000 a month. There is no tourist licence, so we do not model short lets. Until completion the property earns no income. The developer has not stated community fees or IBI; with them the net yield will be lower than calculated.",
+     "risk": "The property is only completed at the end of 2028: until then the investment earns no income, and construction timelines may slip."
+    },
+    "es": {
+     "title": "KOSMOS de Kronos Homes, Torremolinos – pisos nuevos de 2 y 3 dormitorios con vistas al mar",
+     "summary": "KOSMOS es un nuevo complejo de Kronos Homes en Torremolinos, al pie del pinar del Pinar del Moro, con vistas al mar; proyecto del estudio HCP Arquitectos. El complejo tiene 104 viviendas de 2 y 3 dormitorios, cada una con plaza de aparcamiento y trastero. La obra ha empezado; la entrega está prevista por el promotor para el 4.º trimestre de 2028. La lista de precios del promotor del 01.10.2026 incluye 20 viviendas: desde 405.000 € (2 dormitorios, 2 baños, planta baja, 119 m² construidos con zonas comunes, 84 m² útiles, terraza de 19,6 m²) hasta 802.000 € (ático de 3 dormitorios).",
+     "lifestyle": "Los bajos se abren a la zona verde y los áticos tienen grandes terrazas. El salón con cocina se abre a la terraza, los dormitorios están en una zona aparte y hay sistema domótico. En el recinto: piscina exterior y piscina interior climatizada, spa, gimnasio equipado y coworking con cocina. Cerca, la estación de cercanías de Montemar y las playas de La Carihuela y Playamar; según el promotor, unos 10 minutos en coche al centro de Málaga y unos 5 minutos al aeropuerto. Ofrecemos visitas online por vídeo y le acompañamos en toda la compra, desde la reserva hasta la notaría, en inglés o en ruso.",
+     "invest": "El precio de 405.000 € procede de la lista de precios del promotor del 01.10.2026; la lista no indica los impuestos (lo estamos consultando con el promotor) y la web los añade al cálculo del coste total. La renta de la ficha es una estimación conservadora de alquiler de larga estancia de un piso de 2 dormitorios y 2 baños tras la entrega en 2028: el índice de Fotocasa para Torremolinos de octubre de 2026 es de 18 €/m² (Montemar, 17 €/m²; El Pinillo, 15 €/m²); pisos comparables de 2 dormitorios y 2 baños se alquilan por 1.450–2.000 € al mes. No hay licencia turística, por lo que no calculamos alquiler vacacional. Hasta la entrega el inmueble no genera ingresos. El promotor no ha indicado comunidad ni IBI; con ellos la rentabilidad neta será inferior a la calculada.",
+     "risk": "La entrega no llega hasta finales de 2028: hasta entonces la inversión no genera ingresos, y los plazos de obra pueden retrasarse."
+    },
+    "ru": {
+     "title": "KOSMOS от Kronos Homes, Торремолинос — новые апартаменты с 2–3 спальнями и видом на море",
+     "summary": "KOSMOS — новый комплекс Kronos Homes в Торремолиносе, у подножия соснового леса Pinar del Moro, с видом на море; проект архитектурного бюро HCP. В комплексе 104 квартиры с 2 и 3 спальнями, к каждой прилагаются машиноместо и кладовая. Строительство началось, сдача по плану застройщика — IV квартал 2028 года. В прайсе застройщика от 01.10.2026 – 20 квартир: от €405 000 (2 спальни, 2 ванные, первый этаж, 119 м² с долей общих зон, 84 м² полезной площади, терраса 19,6 м²) до €802 000 (пентхаус с 3 спальнями).",
+     "lifestyle": "Квартиры первого этажа выходят в зелень, у пентхаусов — большие террасы. Гостиная с кухней открывается на террасу, спальни вынесены в отдельную зону, есть система «умного дома». На территории открытый и крытый подогреваемый бассейны, спа, оборудованный спортзал и коворкинг с кухней. Рядом станция пригородного поезда Montemar, пляжи La Carihuela и Playamar; по данным застройщика около 10 минут на машине до центра Малаги и около 5 минут до аэропорта. Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.",
+     "invest": "Цена €405 000 — из прайса застройщика от 01.10.2026; налоги в прайсе не указаны (уточняем у застройщика), сайт добавляет их в расчёт all-in. Аренда в карточке — консервативная оценка долгосрочной аренды квартиры 2/2 после сдачи в 2028 году: индекс Fotocasa по Торремолиносу за октябрь 2026 — €18/м² (Montemar — €17/м², El Pinillo — €15/м²); сопоставимые квартиры 2/2 сдаются за €1 450–2 000 в месяц. Туристической лицензии нет, краткосрок не считаем. До сдачи объект дохода не приносит. Комьюнити и IBI застройщик не указал; с ними чистая доходность будет ниже расчёта.",
+     "risk": "Объект сдаётся только в конце 2028 года: до этого вложения не приносят дохода, а сроки стройки могут сдвинуться."
+    },
+    "de": {
+     "title": "KOSMOS von Kronos Homes, Torremolinos – neue Wohnungen mit 2–3 Schlafzimmern und Meerblick",
+     "summary": "KOSMOS ist eine neue Anlage von Kronos Homes in Torremolinos, am Fuß des Pinienwalds Pinar del Moro, mit Meerblick; Entwurf des Architekturbüros HCP. Die Anlage hat 104 Wohnungen mit 2 und 3 Schlafzimmern, jede mit Stellplatz und Abstellraum. Der Bau hat begonnen, die Übergabe ist laut Bauträger für das 4. Quartal 2028 geplant. Die Preisliste des Bauträgers vom 01.10.2026 enthält 20 Wohnungen: ab 405.000 € (2 Schlafzimmer, 2 Bäder, Erdgeschoss, 119 m² inklusive Gemeinschaftsflächenanteil, 84 m² Nutzfläche, 19,6-m²-Terrasse) bis 802.000 € (Penthouse mit 3 Schlafzimmern).",
+     "lifestyle": "Erdgeschosswohnungen öffnen sich ins Grüne, Penthäuser haben große Terrassen. Wohnzimmer und Küche öffnen sich zur Terrasse, die Schlafzimmer liegen in einem separaten Bereich, es gibt ein Smart-Home-System. Auf dem Gelände Außenpool und beheizter Innenpool, Spa, ein ausgestatteter Fitnessraum und ein Co-Working-Bereich mit Küche. In der Nähe der S-Bahnhof Montemar sowie die Strände La Carihuela und Playamar; laut Bauträger rund 10 Minuten mit dem Auto ins Zentrum von Málaga und etwa 5 Minuten zum Flughafen. Wir bieten Online-Besichtigungen per Video und begleiten Sie durch den gesamten Kauf – von der Reservierung bis zum Notar – auf Englisch oder Russisch.",
+     "invest": "Der Preis von 405.000 € stammt aus der Preisliste des Bauträgers vom 01.10.2026; Steuern sind in der Preisliste nicht angegeben (wir klären das mit dem Bauträger), die Website rechnet sie in die All-in-Kosten ein. Die Miete auf der Karte ist eine konservative Schätzung der Langzeitmiete einer Wohnung mit 2 Schlafzimmern und 2 Bädern nach der Übergabe 2028: Der Fotocasa-Index für Torremolinos im Oktober 2026 liegt bei 18 €/m² (Montemar 17 €/m², El Pinillo 15 €/m²); vergleichbare Wohnungen mit 2 Schlafzimmern und 2 Bädern werden für 1.450–2.000 € im Monat vermietet. Keine Touristenlizenz, Kurzzeitvermietung rechnen wir nicht. Bis zur Übergabe erzielt die Immobilie keine Einnahmen. Hausgeld und IBI hat der Bauträger nicht angegeben; mit ihnen fällt die Nettorendite niedriger aus als berechnet.",
+     "risk": "Die Übergabe erfolgt erst Ende 2028: Bis dahin bringt die Investition keine Einnahmen, und der Bauzeitplan kann sich verschieben."
+    },
+    "fr": {
+     "title": "KOSMOS par Kronos Homes, Torremolinos – appartements neufs de 2 à 3 chambres avec vue mer",
+     "summary": "KOSMOS est un nouvel ensemble de Kronos Homes à Torremolinos, au pied de la pinède de Pinar del Moro, avec vue sur la mer ; projet du cabinet d'architectes HCP. L'ensemble compte 104 appartements de 2 et 3 chambres, chacun avec place de parking et cave. Les travaux ont commencé ; la livraison est prévue par le promoteur au 4e trimestre 2028. La grille de prix du promoteur du 01.10.2026 comprend 20 logements : de 405 000 € (2 chambres, 2 salles de bains, rez-de-chaussée, 119 m² parties communes comprises, 84 m² utiles, terrasse de 19,6 m²) à 802 000 € (penthouse de 3 chambres).",
+     "lifestyle": "Les rez-de-chaussée s'ouvrent sur la verdure, les penthouses ont de grandes terrasses. Le séjour avec cuisine s'ouvre sur la terrasse, les chambres sont dans une zone séparée et il y a un système domotique. Sur le site, une piscine extérieure et une piscine intérieure chauffée, un spa, une salle de sport équipée et un espace de coworking avec cuisine. À proximité, la gare de banlieue de Montemar et les plages de La Carihuela et Playamar ; selon le promoteur, environ 10 minutes en voiture jusqu'au centre de Málaga et environ 5 minutes jusqu'à l'aéroport. Nous proposons des visites en ligne par vidéo et vous accompagnons pendant tout l'achat – de la réservation jusqu'au notaire – en anglais ou en russe.",
+     "invest": "Le prix de 405 000 € provient de la grille du promoteur du 01.10.2026 ; les taxes n'y sont pas indiquées (nous vérifions auprès du promoteur), et le site les ajoute au calcul du coût total. Le loyer de la fiche est une estimation prudente de location longue durée d'un 2 chambres, 2 salles de bains après la livraison en 2028 : l'indice Fotocasa pour Torremolinos d'octobre 2026 est de 18 €/m² (Montemar 17 €/m², El Pinillo 15 €/m²) ; des appartements comparables de 2 chambres et 2 salles de bains se louent 1 450–2 000 € par mois. Pas de licence touristique, nous ne comptons donc pas de location courte durée. Jusqu'à la livraison, le bien ne rapporte rien. Le promoteur n'a indiqué ni charges de copropriété ni IBI ; avec elles, le rendement net sera inférieur au calcul.",
+     "risk": "Le bien n'est livré qu'à la fin de 2028 : d'ici là l'investissement ne rapporte rien, et le calendrier des travaux peut glisser."
+    },
+    "cs": {
+     "title": "KOSMOS od Kronos Homes, Torremolinos – nové byty se 2–3 ložnicemi a výhledem na moře",
+     "summary": "KOSMOS je nový areál od Kronos Homes v Torremolinos, na úpatí borového lesa Pinar del Moro, s výhledem na moře; projekt architektonické kanceláře HCP. Areál má 104 bytů se 2 a 3 ložnicemi, každý s parkovacím místem a sklepem. Výstavba začala, předání developer plánuje na 4. čtvrtletí 2028. V ceníku developera z 01.10.2026 je 20 bytů: od 405 000 € (2 ložnice, 2 koupelny, přízemí, 119 m² včetně podílu na společných prostorách, 84 m² užitné plochy, terasa 19,6 m²) do 802 000 € (penthouse se 3 ložnicemi).",
+     "lifestyle": "Byty v přízemí vedou do zeleně, penthousy mají velké terasy. Obývací pokoj s kuchyní vede na terasu, ložnice jsou v oddělené zóně, je zde systém chytré domácnosti. V areálu venkovní a vyhřívaný krytý bazén, spa, vybavená posilovna a coworkingová zóna s kuchyní. Poblíž příměstská železniční stanice Montemar a pláže La Carihuela a Playamar; podle developera asi 10 minut autem do centra Málagy a asi 5 minut na letiště. Nabízíme online prohlídky přes video a provedeme vás celým nákupem – od rezervace až k notáři – v angličtině nebo ruštině.",
+     "invest": "Cena 405 000 € je z ceníku developera z 01.10.2026; daně v ceníku uvedené nejsou (ověřujeme u developera), web je započítává do celkových nákladů. Nájem na kartě je konzervativní odhad dlouhodobého pronájmu bytu se 2 ložnicemi a 2 koupelnami po předání v roce 2028: index Fotocasa pro Torremolinos v říjnu 2026 je 18 €/m² (Montemar 17 €/m², El Pinillo 15 €/m²); srovnatelné byty se 2 ložnicemi a 2 koupelnami se pronajímají za 1 450–2 000 € měsíčně. Turistická licence není, krátkodobý pronájem nepočítáme. Do předání nemovitost nevydělává. Poplatky společenství a IBI developer neuvedl; s nimi bude čistý výnos nižší, než je výpočet.",
+     "risk": "Předání je až na konci roku 2028: do té doby investice nic nevynáší a harmonogram výstavby se může posunout."
+    }
+   }
+  },
+  {
+   "id": "gfc-3987675",
+   "cabinetId": null,
+   "ref": "GFC-3987675",
+   "type": "land",
+   "area": "sotogrande",
+   "town": "San Roque",
+   "price": 8000000,
+   "priceFrom": true,
+   "currency": "EUR",
+   "sqm": 10724,
+   "beds": null,
+   "baths": null,
+   "seaM": null,
+   "license": "na",
+   "communityMonth": null,
+   "ibiYear": null,
+   "insuranceYear": null,
+   "longRentMonth": null,
+   "adr": null,
+   "occLong": null,
+   "occShort": null,
+   "mgmtLong": null,
+   "mgmtShort": null,
+   "landUse": null,
+   "sellableSqm": null,
+   "buildCostSqm": null,
+   "exitSqm": null,
+   "contract": false,
+   "hidden": true,
+   "images": [
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987675/05.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987675/06.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987675/07.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987675/08.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987675/09.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987675/10.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987675/11.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987675/12.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987675/13.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987675/14.jpg"
+   ],
+   "i18n": {
+    "en": {
+     "title": "The Seven, La Reserva – plots of about 1 hectare with an architect's concept, from €8,000,000",
+     "summary": "Four large plots of about a hectare each at the top of La Reserva, Sotogrande: plot 3 – 10,724 m² (€8,000,000), plot 2 – 10,668 m² (€8,300,000), plot 7 – 11,912 m² (€8,400,000), plot 6 – 10,136 m² (€8,500,000).",
+     "lifestyle": "Each plot comes with an architect's concept (Martin-Löf, Gumuchdjian, Jensen, Silvestre) – room for a truly private villa. Gated estate with golf, a club and The Beach lagoon; an international school a few minutes away. We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.",
+     "invest": "The price is for the land only; construction is separate, VAT not included. A plot has no rental income; the economics are the value of the future villa. The area and price on the card are for plot 3.",
+     "risk": "Income will only come after design and construction, and their timing and cost depend on the licence and the contractor."
+    },
+    "es": {
+     "title": "The Seven, La Reserva – parcelas de cerca de 1 hectárea con concepto de arquitecto, desde 8.000.000 €",
+     "summary": "Cuatro grandes parcelas de cerca de una hectárea cada una en lo alto de La Reserva, Sotogrande: parcela 3, 10.724 m² (8.000.000 €); parcela 2, 10.668 m² (8.300.000 €); parcela 7, 11.912 m² (8.400.000 €); parcela 6, 10.136 m² (8.500.000 €).",
+     "lifestyle": "Cada parcela incluye un concepto de arquitecto (Martin-Löf, Gumuchdjian, Jensen, Silvestre): espacio para una villa verdaderamente privada. Complejo cerrado con golf, club y la laguna The Beach; colegio internacional a pocos minutos. Ofrecemos visitas online por vídeo y le acompañamos en toda la compra, desde la reserva hasta la notaría, en inglés o en ruso.",
+     "invest": "El precio es solo del terreno; la construcción va aparte, IVA no incluido. Una parcela no genera renta; su valor económico es el de la futura villa. La superficie y el precio de la ficha corresponden a la parcela 3.",
+     "risk": "El ingreso solo llegará tras el proyecto y la construcción, y sus plazos y coste dependen de la licencia y del constructor."
+    },
+    "ru": {
+     "title": "The Seven, La Reserva — участки около 1 га с концепцией архитектора, от €8 000 000",
+     "summary": "Четыре больших участка около гектара каждый на вершине La Reserva, Sotogrande: участок 3 — 10 724 м² (€8 000 000), участок 2 — 10 668 м² (€8 300 000), участок 7 — 11 912 м² (€8 400 000), участок 6 — 10 136 м² (€8 500 000).",
+     "lifestyle": "К каждому участку прилагается концепция архитектора (Martin-Löf, Gumuchdjian, Jensen, Silvestre) — место для по-настоящему приватной виллы. Закрытый комплекс с гольфом, клубом и лагуной The Beach; международная школа в нескольких минутах. Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.",
+     "invest": "Цена — только за землю, строительство отдельно, НДС не включён. Арендного дохода у участка нет; экономика — это стоимость будущей виллы. Площадь и цена в карточке — по участку 3.",
+     "risk": "Доход появится только после проектирования и строительства, а их сроки и стоимость зависят от лицензии и подрядчика."
+    },
+    "de": {
+     "title": "The Seven, La Reserva – Grundstücke von rund 1 Hektar mit Architektenkonzept, ab 8.000.000 €",
+     "summary": "Vier große Grundstücke von je rund einem Hektar ganz oben in La Reserva, Sotogrande: Grundstück 3 – 10.724 m² (8.000.000 €), Grundstück 2 – 10.668 m² (8.300.000 €), Grundstück 7 – 11.912 m² (8.400.000 €), Grundstück 6 – 10.136 m² (8.500.000 €).",
+     "lifestyle": "Zu jedem Grundstück gehört ein Architektenkonzept (Martin-Löf, Gumuchdjian, Jensen, Silvestre) – Raum für eine wirklich private Villa. Geschlossene Anlage mit Golf, Club und der Lagune The Beach; eine internationale Schule wenige Minuten entfernt. Wir bieten Online-Besichtigungen per Video und begleiten Sie durch den gesamten Kauf – von der Reservierung bis zum Notar – auf Englisch oder Russisch.",
+     "invest": "Der Preis gilt nur für das Grundstück, Bau separat, ohne MwSt. Ein Grundstück bringt keine Mieteinnahmen; die Wirtschaftlichkeit liegt im Wert der künftigen Villa. Fläche und Preis auf der Karte beziehen sich auf Grundstück 3.",
+     "risk": "Einnahmen entstehen erst nach Planung und Bau, und deren Dauer und Kosten hängen von Lizenz und Bauunternehmen ab."
+    },
+    "fr": {
+     "title": "The Seven, La Reserva – terrains d'environ 1 hectare avec concept d'architecte, à partir de 8 000 000 €",
+     "summary": "Quatre grands terrains d'environ un hectare chacun au sommet de La Reserva, Sotogrande : lot 3 – 10 724 m² (8 000 000 €), lot 2 – 10 668 m² (8 300 000 €), lot 7 – 11 912 m² (8 400 000 €), lot 6 – 10 136 m² (8 500 000 €).",
+     "lifestyle": "Chaque terrain est accompagné d'un concept d'architecte (Martin-Löf, Gumuchdjian, Jensen, Silvestre) – la place pour une villa vraiment privée. Domaine fermé avec golf, club et le lagon The Beach ; une école internationale à quelques minutes. Nous proposons des visites en ligne par vidéo et vous accompagnons pendant tout l'achat – de la réservation jusqu'au notaire – en anglais ou en russe.",
+     "invest": "Le prix concerne uniquement le terrain ; la construction est en sus, TVA non comprise. Un terrain ne génère pas de loyer ; son intérêt économique est la valeur de la future villa. La surface et le prix de la fiche correspondent au lot 3.",
+     "risk": "Le revenu n'arrivera qu'après la conception et la construction, dont les délais et le coût dépendent de la licence et de l'entreprise."
+    },
+    "cs": {
+     "title": "The Seven, La Reserva – pozemky kolem 1 hektaru s architektonickým konceptem, od 8 000 000 €",
+     "summary": "Čtyři velké pozemky, každý kolem jednoho hektaru, na samém vrcholu La Reserva, Sotogrande: pozemek 3 – 10 724 m² (8 000 000 €), pozemek 2 – 10 668 m² (8 300 000 €), pozemek 7 – 11 912 m² (8 400 000 €), pozemek 6 – 10 136 m² (8 500 000 €).",
+     "lifestyle": "Ke každému pozemku patří architektonický koncept (Martin-Löf, Gumuchdjian, Jensen, Silvestre) – prostor pro skutečně soukromou vilu. Uzavřený areál s golfem, klubem a lagunou The Beach; mezinárodní škola pár minut odsud. Nabízíme online prohlídky přes video a provedeme vás celým nákupem – od rezervace až k notáři – v angličtině nebo ruštině.",
+     "invest": "Cena je jen za pozemek, výstavba zvlášť, bez DPH. Pozemek nepřináší nájem; jeho ekonomika spočívá v hodnotě budoucí vily. Plocha a cena na kartě odpovídají pozemku 3.",
+     "risk": "Příjem přijde až po projektu a výstavbě, jejichž délka a cena závisí na licenci a dodavateli."
+    }
+   }
+  },
+  {
+   "id": "gfc-3987649",
+   "cabinetId": null,
+   "ref": "GFC-3987649",
+   "type": "land",
+   "area": "sotogrande",
+   "town": "San Roque",
+   "price": 3000000,
+   "priceFrom": false,
+   "currency": "EUR",
+   "sqm": 4541,
+   "beds": null,
+   "baths": null,
+   "seaM": null,
+   "license": "na",
+   "communityMonth": null,
+   "ibiYear": null,
+   "insuranceYear": null,
+   "longRentMonth": null,
+   "adr": null,
+   "occLong": null,
+   "occShort": null,
+   "mgmtLong": null,
+   "mgmtShort": null,
+   "landUse": null,
+   "sellableSqm": null,
+   "buildCostSqm": null,
+   "exitSqm": null,
+   "contract": false,
+   "hidden": true,
+   "images": [
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987649/03.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987649/04.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987649/05.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987649/06.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987649/07.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987649/08.jpg"
+   ],
+   "i18n": {
+    "en": {
+     "title": "The Fifteen, La Reserva – plot above the golf course, 4,541 m², €3,000,000",
+     "summary": "Two of the last plots in The Fifteen, La Reserva, Sotogrande, above the golf course: plot 1 – 4,541 m², up to 1,135 m² buildable, €3,000,000; plot 5 – 4,893 m², up to 1,223 m² buildable, €4,000,000.",
+     "lifestyle": "Gated club with 24-hour security, golf and The Beach lagoon; an international school a few minutes away. We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.",
+     "invest": "Prices are for the land only, VAT not included, construction separate; on request we will send plot plans and a construction cost estimate. A plot has no rental income. The area and price on the card are for plot 1.",
+     "risk": "Income will only come after construction, and the final budget depends on the design and the build."
+    },
+    "es": {
+     "title": "The Fifteen, La Reserva – parcela sobre el campo de golf, 4.541 m², 3.000.000 €",
+     "summary": "Dos de las últimas parcelas de The Fifteen, La Reserva, Sotogrande, sobre el campo de golf: parcela 1, 4.541 m², hasta 1.135 m² edificables, 3.000.000 €; parcela 5, 4.893 m², hasta 1.223 m² edificables, 4.000.000 €.",
+     "lifestyle": "Club cerrado con seguridad 24 horas, golf y la laguna The Beach; colegio internacional a pocos minutos. Ofrecemos visitas online por vídeo y le acompañamos en toda la compra, desde la reserva hasta la notaría, en inglés o en ruso.",
+     "invest": "Precios solo del terreno, IVA no incluido, construcción aparte; a petición enviamos los planos de las parcelas y una estimación del coste de construcción. Una parcela no genera renta. La superficie y el precio de la ficha corresponden a la parcela 1.",
+     "risk": "El ingreso solo llegará tras la construcción, y el presupuesto final depende del proyecto y de la obra."
+    },
+    "ru": {
+     "title": "The Fifteen, La Reserva — участок над полем для гольфа, 4 541 м², €3 000 000",
+     "summary": "Два из последних участков в The Fifteen, La Reserva, Sotogrande, над полем для гольфа: участок 1 — 4 541 м², до 1 135 м² застройки, €3 000 000; участок 5 — 4 893 м², до 1 223 м² застройки, €4 000 000.",
+     "lifestyle": "Закрытый клуб с круглосуточной охраной, гольфом и лагуной The Beach; международная школа в нескольких минутах. Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.",
+     "invest": "Цены — только за землю, НДС не включён, строительство отдельно; по запросу пришлём планы участков и оценку стоимости строительства. Арендного дохода у участка нет. Площадь и цена в карточке — по участку 1.",
+     "risk": "Доход появится только после строительства, а итоговый бюджет зависит от проекта и стройки."
+    },
+    "de": {
+     "title": "The Fifteen, La Reserva – Grundstück über dem Golfplatz, 4.541 m², 3.000.000 €",
+     "summary": "Zwei der letzten Grundstücke in The Fifteen, La Reserva, Sotogrande, über dem Golfplatz: Grundstück 1 – 4.541 m², bis zu 1.135 m² bebaubar, 3.000.000 €; Grundstück 5 – 4.893 m², bis zu 1.223 m² bebaubar, 4.000.000 €.",
+     "lifestyle": "Geschlossener Club mit 24-Stunden-Sicherheitsdienst, Golf und der Lagune The Beach; eine internationale Schule wenige Minuten entfernt. Wir bieten Online-Besichtigungen per Video und begleiten Sie durch den gesamten Kauf – von der Reservierung bis zum Notar – auf Englisch oder Russisch.",
+     "invest": "Preise nur für das Grundstück, ohne MwSt., Bau separat; auf Anfrage senden wir Grundstückspläne und eine Baukostenschätzung. Ein Grundstück bringt keine Mieteinnahmen. Fläche und Preis auf der Karte beziehen sich auf Grundstück 1.",
+     "risk": "Einnahmen entstehen erst nach dem Bau, und das Endbudget hängt von Entwurf und Bauausführung ab."
+    },
+    "fr": {
+     "title": "The Fifteen, La Reserva – terrain au-dessus du golf, 4 541 m², 3 000 000 €",
+     "summary": "Deux des derniers terrains de The Fifteen, La Reserva, Sotogrande, au-dessus du golf : lot 1 – 4 541 m², jusqu'à 1 135 m² constructibles, 3 000 000 € ; lot 5 – 4 893 m², jusqu'à 1 223 m² constructibles, 4 000 000 €.",
+     "lifestyle": "Club fermé avec sécurité 24 h/24, golf et le lagon The Beach ; une école internationale à quelques minutes. Nous proposons des visites en ligne par vidéo et vous accompagnons pendant tout l'achat – de la réservation jusqu'au notaire – en anglais ou en russe.",
+     "invest": "Prix du terrain seul, TVA non comprise, construction en sus ; sur demande, nous envoyons les plans des terrains et une estimation du coût de construction. Un terrain ne génère pas de loyer. La surface et le prix de la fiche correspondent au lot 1.",
+     "risk": "Le revenu n'arrivera qu'après la construction, et le budget final dépend du projet et du chantier."
+    },
+    "cs": {
+     "title": "The Fifteen, La Reserva – pozemek nad golfovým hřištěm, 4 541 m², 3 000 000 €",
+     "summary": "Dva z posledních pozemků v The Fifteen, La Reserva, Sotogrande, nad golfovým hřištěm: pozemek 1 – 4 541 m², zastavitelná plocha až 1 135 m², 3 000 000 €; pozemek 5 – 4 893 m², zastavitelná plocha až 1 223 m², 4 000 000 €.",
+     "lifestyle": "Uzavřený klub s nepřetržitou ostrahou, golfem a lagunou The Beach; mezinárodní škola pár minut odsud. Nabízíme online prohlídky přes video a provedeme vás celým nákupem – od rezervace až k notáři – v angličtině nebo ruštině.",
+     "invest": "Ceny jen za pozemek, bez DPH, výstavba zvlášť; na vyžádání zašleme plány pozemků a odhad ceny výstavby. Pozemek nepřináší nájem. Plocha a cena na kartě odpovídají pozemku 1.",
+     "risk": "Příjem přijde až po výstavbě a konečný rozpočet závisí na projektu a stavbě."
+    }
+   }
+  },
+  {
+   "id": "gfc-3987646",
+   "cabinetId": null,
+   "ref": "GFC-3987646",
+   "type": "land",
+   "area": "sotogrande",
+   "town": "San Roque",
+   "price": 1100000,
+   "priceFrom": false,
+   "currency": "EUR",
+   "sqm": 2560,
+   "beds": null,
+   "baths": null,
+   "seaM": null,
+   "license": "na",
+   "communityMonth": null,
+   "ibiYear": null,
+   "insuranceYear": null,
+   "longRentMonth": null,
+   "adr": null,
+   "occLong": null,
+   "occShort": null,
+   "mgmtLong": null,
+   "mgmtShort": null,
+   "landUse": null,
+   "sellableSqm": null,
+   "buildCostSqm": null,
+   "exitSqm": null,
+   "contract": false,
+   "hidden": true,
+   "images": [
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/01.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/02.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/03.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/04.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/05.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/06.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/07.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/08.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/09.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/10.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/11.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/12.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/13.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/14.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/15.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987646/16.jpg"
+   ],
+   "i18n": {
+    "en": {
+     "title": "Lago, La Reserva – golf-side plot with a licensed villa project, €1,100,000",
+     "summary": "A 2,560 m² plot on the best-known corner of the La Reserva golf course, Sotogrande, facing south-south-west. The price of €1,100,000 includes the plot and a licensed project – construction can start without waiting for permits.",
+     "lifestyle": "The designed villa: two floors, four en-suite bedrooms, 559 m² of living space (746 m² in total), terraces with golf views, an 87 m² pool, home office, garage, kitchen and living room opening onto the garden, barbecue area and panoramic glazing. Gated club with security, golf and The Beach lagoon; an international school nearby. We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.",
+     "invest": "Construction, pool and finishes are paid separately, VAT not included, furniture not included; we will send plans and a construction cost estimate. A plot has no rental income – its value is the ready licence, which saves time.",
+     "risk": "The final cost of the villa depends on the budget and the contractor; income is only possible after construction is completed."
+    },
+    "es": {
+     "title": "Lago, La Reserva – parcela junto al golf con proyecto de villa con licencia, 1.100.000 €",
+     "summary": "Parcela de 2.560 m² en la esquina más conocida del campo de golf de La Reserva, Sotogrande, orientación sur-suroeste. El precio de 1.100.000 € incluye la parcela y un proyecto con licencia: se puede empezar a construir sin esperar permisos.",
+     "lifestyle": "La villa proyectada: dos plantas, cuatro dormitorios con baño, 559 m² habitables (746 m² en total), terrazas con vistas al golf, piscina de 87 m², despacho, garaje, salón-cocina con salida al jardín, zona de barbacoa y acristalamiento panorámico. Club cerrado con seguridad, golf y la laguna The Beach; colegio internacional cerca. Ofrecemos visitas online por vídeo y le acompañamos en toda la compra, desde la reserva hasta la notaría, en inglés o en ruso.",
+     "invest": "La construcción, la piscina y los acabados se pagan aparte, IVA no incluido, muebles no incluidos; enviamos planos y una estimación del coste de construcción. Una parcela no genera renta: su valor está en la licencia ya concedida, que ahorra tiempo.",
+     "risk": "El coste final de la villa depende del presupuesto y del constructor; solo puede haber ingresos una vez terminada la obra."
+    },
+    "ru": {
+     "title": "Lago, La Reserva — участок у гольфа с лицензированным проектом виллы, €1 100 000",
+     "summary": "Участок 2 560 м² на самом известном углу поля для гольфа La Reserva, Sotogrande, ориентация юг-юго-запад. В цену €1 100 000 входят участок и лицензированный проект — можно начинать строительство, не дожидаясь разрешений.",
+     "lifestyle": "Запроектированная вилла: два этажа, четыре спальни с ванными, 559 м² жилой (746 м² общей площади), террасы с видом на гольф, бассейн 87 м², домашний кабинет, гараж, кухня-гостиная с выходом в сад, зона барбекю и панорамное остекление. Закрытый клуб с охраной, гольфом и лагуной The Beach; международная школа рядом. Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.",
+     "invest": "Строительство, бассейн и отделка оплачиваются отдельно, НДС не включён, мебель не включена; пришлём планы и оценку стоимости строительства. Арендного дохода у участка нет — ценность в готовой лицензии, экономящей время.",
+     "risk": "Итоговая стоимость виллы зависит от сметы и подрядчика, доход возможен только после завершения строительства."
+    },
+    "de": {
+     "title": "Lago, La Reserva – Grundstück am Golfplatz mit genehmigtem Villenprojekt, 1.100.000 €",
+     "summary": "Grundstück mit 2.560 m² an der bekanntesten Ecke des Golfplatzes von La Reserva, Sotogrande, Ausrichtung Süd-Südwest. Im Preis von 1.100.000 € sind das Grundstück und ein genehmigtes Projekt enthalten – der Bau kann beginnen, ohne auf Genehmigungen zu warten.",
+     "lifestyle": "Die geplante Villa: zwei Etagen, vier Schlafzimmer mit eigenem Bad, 559 m² Wohnfläche (746 m² gesamt), Terrassen mit Golfblick, 87-m²-Pool, Arbeitszimmer, Garage, Wohnküche mit Zugang zum Garten, Grillbereich und Panoramaverglasung. Geschlossener Club mit Sicherheitsdienst, Golf und der Lagune The Beach; internationale Schule in der Nähe. Wir bieten Online-Besichtigungen per Video und begleiten Sie durch den gesamten Kauf – von der Reservierung bis zum Notar – auf Englisch oder Russisch.",
+     "invest": "Bau, Pool und Ausbau werden separat bezahlt, ohne MwSt., ohne Möbel; wir senden Pläne und eine Baukostenschätzung. Ein Grundstück bringt keine Mieteinnahmen – sein Wert liegt in der fertigen Lizenz, die Zeit spart.",
+     "risk": "Die Endkosten der Villa hängen von Kostenvoranschlag und Bauunternehmen ab; Einnahmen sind erst nach Fertigstellung möglich."
+    },
+    "fr": {
+     "title": "Lago, La Reserva – terrain en bord de golf avec projet de villa autorisé, 1 100 000 €",
+     "summary": "Terrain de 2 560 m² à l'angle le plus connu du golf de La Reserva, Sotogrande, orienté sud-sud-ouest. Le prix de 1 100 000 € comprend le terrain et un projet autorisé – on peut commencer à construire sans attendre les permis.",
+     "lifestyle": "La villa projetée : deux niveaux, quatre chambres avec salle de bains, 559 m² habitables (746 m² au total), terrasses avec vue sur le golf, piscine de 87 m², bureau, garage, cuisine-séjour ouverte sur le jardin, espace barbecue et vitrages panoramiques. Club fermé avec sécurité, golf et le lagon The Beach ; école internationale à proximité. Nous proposons des visites en ligne par vidéo et vous accompagnons pendant tout l'achat – de la réservation jusqu'au notaire – en anglais ou en russe.",
+     "invest": "La construction, la piscine et les finitions sont payées à part, TVA non comprise, mobilier non compris ; nous envoyons les plans et une estimation du coût de construction. Un terrain ne génère pas de loyer – sa valeur tient à la licence déjà obtenue, qui fait gagner du temps.",
+     "risk": "Le coût final de la villa dépend du devis et de l'entreprise ; un revenu n'est possible qu'une fois la construction achevée."
+    },
+    "cs": {
+     "title": "Lago, La Reserva – pozemek u golfového hřiště se schváleným projektem vily, 1 100 000 €",
+     "summary": "Pozemek 2 560 m² na nejznámějším rohu golfového hřiště La Reserva, Sotogrande, orientace jih-jihozápad. Cena 1 100 000 € zahrnuje pozemek a schválený projekt – stavět lze začít bez čekání na povolení.",
+     "lifestyle": "Projektovaná vila: dvě podlaží, čtyři ložnice s vlastní koupelnou, 559 m² obytné plochy (746 m² celkem), terasy s výhledem na golf, bazén 87 m², pracovna, garáž, kuchyň s obývacím pokojem a výstupem do zahrady, grilovací zóna a panoramatické prosklení. Uzavřený klub s ostrahou, golfem a lagunou The Beach; mezinárodní škola poblíž. Nabízíme online prohlídky přes video a provedeme vás celým nákupem – od rezervace až k notáři – v angličtině nebo ruštině.",
+     "invest": "Výstavba, bazén a dokončovací práce se platí zvlášť, bez DPH, bez nábytku; zašleme plány a odhad ceny výstavby. Pozemek nepřináší nájem – jeho hodnota je v hotové licenci, která šetří čas.",
+     "risk": "Konečná cena vily závisí na rozpočtu a dodavateli; příjem je možný až po dokončení výstavby."
+    }
+   }
+  },
+  {
+   "id": "gfc-3987631",
+   "cabinetId": null,
+   "ref": "GFC-3987631",
+   "type": "land",
+   "area": "sotogrande",
+   "town": "San Roque",
+   "price": 765000,
+   "priceFrom": true,
+   "currency": "EUR",
+   "sqm": null,
+   "beds": null,
+   "baths": null,
+   "seaM": null,
+   "license": "na",
+   "communityMonth": null,
+   "ibiYear": null,
+   "insuranceYear": null,
+   "longRentMonth": null,
+   "adr": null,
+   "occLong": null,
+   "occShort": null,
+   "mgmtLong": null,
+   "mgmtShort": null,
+   "landUse": null,
+   "sellableSqm": null,
+   "buildCostSqm": null,
+   "exitSqm": null,
+   "contract": false,
+   "hidden": true,
+   "images": [
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987631/01.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987631/02.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987631/03.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987631/04.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987631/05.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987631/06.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987631/07.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987631/08.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987631/09.jpg",
+    "https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3987631/10.jpg"
+   ],
+   "i18n": {
+    "en": {
+     "title": "The Collection, La Reserva, Sotogrande – building plots from €765,000",
+     "summary": "Several plots of different sizes in one gated estate within La Reserva Club, Sotogrande: from 2,703 to 4,767 m², with a buildable area of 676 to 1,192 m². Price from €765,000.",
+     "lifestyle": "Build your own villa with a pool and garden. Gated, guarded estate, golf, a club and The Beach lagoon; an international school nearby. We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.",
+     "invest": "Price from €765,000, VAT not included, construction not included. Numbers of the available plots, plans and the exact price of each on request. A plot has no rental income.",
+     "risk": "Income will only come after construction; the exact area and price depend on the plot you choose."
+    },
+    "es": {
+     "title": "The Collection, La Reserva, Sotogrande – parcelas edificables desde 765.000 €",
+     "summary": "Varias parcelas de distintos tamaños en un mismo complejo cerrado dentro de La Reserva Club, Sotogrande: de 2.703 a 4.767 m², con superficie edificable de 676 a 1.192 m². Precio desde 765.000 €.",
+     "lifestyle": "Construya su propia villa con piscina y jardín. Recinto cerrado y vigilado, golf, club y la laguna The Beach; colegio internacional cerca. Ofrecemos visitas online por vídeo y le acompañamos en toda la compra, desde la reserva hasta la notaría, en inglés o en ruso.",
+     "invest": "Precio desde 765.000 €, IVA no incluido, construcción no incluida. Los números de las parcelas disponibles, los planos y el precio exacto de cada una, a petición. Una parcela no genera renta.",
+     "risk": "El ingreso solo llegará tras la construcción; la superficie y el precio exactos dependen de la parcela elegida."
+    },
+    "ru": {
+     "title": "The Collection, La Reserva, Sotogrande — участки под застройку от €765 000",
+     "summary": "Несколько участков разного размера в одном закрытом комплексе внутри La Reserva Club, Sotogrande: от 2 703 до 4 767 м², площадь застройки от 676 до 1 192 м². Цена от €765 000.",
+     "lifestyle": "Постройте свою виллу с бассейном и садом. Закрытая охраняемая территория, гольф, клуб и лагуна The Beach; международная школа рядом. Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.",
+     "invest": "Цена от €765 000, НДС не включён, строительство не включено. Номера свободных участков, планы и точную цену каждого пришлём по запросу. Арендного дохода у участка нет.",
+     "risk": "Доход появится только после строительства; точная площадь и цена зависят от выбранного участка."
+    },
+    "de": {
+     "title": "The Collection, La Reserva, Sotogrande – Baugrundstücke ab 765.000 €",
+     "summary": "Mehrere Grundstücke unterschiedlicher Größe in einer geschlossenen Anlage innerhalb des La Reserva Club, Sotogrande: von 2.703 bis 4.767 m², bebaubare Fläche von 676 bis 1.192 m². Preis ab 765.000 €.",
+     "lifestyle": "Bauen Sie Ihre eigene Villa mit Pool und Garten. Geschlossenes, bewachtes Gelände, Golf, Club und die Lagune The Beach; internationale Schule in der Nähe. Wir bieten Online-Besichtigungen per Video und begleiten Sie durch den gesamten Kauf – von der Reservierung bis zum Notar – auf Englisch oder Russisch.",
+     "invest": "Preis ab 765.000 €, ohne MwSt., ohne Bau. Nummern der freien Grundstücke, Pläne und den genauen Preis jedes Grundstücks senden wir auf Anfrage. Ein Grundstück bringt keine Mieteinnahmen.",
+     "risk": "Einnahmen entstehen erst nach dem Bau; genaue Fläche und Preis hängen vom gewählten Grundstück ab."
+    },
+    "fr": {
+     "title": "The Collection, La Reserva, Sotogrande – terrains à bâtir à partir de 765 000 €",
+     "summary": "Plusieurs terrains de tailles différentes dans un même domaine fermé au sein du La Reserva Club, Sotogrande : de 2 703 à 4 767 m², surface constructible de 676 à 1 192 m². Prix à partir de 765 000 €.",
+     "lifestyle": "Construisez votre propre villa avec piscine et jardin. Domaine fermé et gardé, golf, club et le lagon The Beach ; école internationale à proximité. Nous proposons des visites en ligne par vidéo et vous accompagnons pendant tout l'achat – de la réservation jusqu'au notaire – en anglais ou en russe.",
+     "invest": "Prix à partir de 765 000 €, TVA non comprise, construction non comprise. Numéros des terrains disponibles, plans et prix exact de chacun sur demande. Un terrain ne génère pas de loyer.",
+     "risk": "Le revenu n'arrivera qu'après la construction ; la surface et le prix exacts dépendent du terrain choisi."
+    },
+    "cs": {
+     "title": "The Collection, La Reserva, Sotogrande – stavební pozemky od 765 000 €",
+     "summary": "Několik pozemků různé velikosti v jednom uzavřeném areálu v rámci La Reserva Club, Sotogrande: od 2 703 do 4 767 m², zastavitelná plocha od 676 do 1 192 m². Cena od 765 000 €.",
+     "lifestyle": "Postavte si vlastní vilu s bazénem a zahradou. Uzavřený hlídaný areál, golf, klub a laguna The Beach; mezinárodní škola poblíž. Nabízíme online prohlídky přes video a provedeme vás celým nákupem – od rezervace až k notáři – v angličtině nebo ruštině.",
+     "invest": "Cena od 765 000 € bez DPH, bez výstavby. Čísla volných pozemků, plány a přesnou cenu každého pozemku zašleme na vyžádání. Pozemek nepřináší nájem.",
+     "risk": "Příjem přijde až po výstavbě; přesná plocha a cena závisí na zvoleném pozemku."
+    }
+   }
+  }
+ ]
+}
