@@ -2,7 +2,7 @@
 <root>
 <kyero>
 <feed_version>3</feed_version>
-<feed_generated>2026-10-26 12:04:37</feed_generated>
+<feed_generated>2026-10-27 14:26:10</feed_generated>
 </kyero>
 <property>
 <id>GFC-3987679</id>
@@ -1036,6 +1036,70 @@
 </image>
 <image id="10">
 <url>https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-3843771/10.jpg</url>
+</image>
+</images>
+</property>
+<property>
+<id>GFC-CAPRI</id>
+<date>2026-10-27 14:25:05</date>
+<ref>GFC-CAPRI</ref>
+<price>454000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<new_build>1</new_build>
+<type>apartment</type>
+<town>Estepona</town>
+<province>Malaga</province>
+<country>Spain</country>
+<location>
+<latitude>36.46</latitude>
+<longitude>-5.076</longitude>
+</location>
+<location_detail>New Golden Mile, Estepona</location_detail>
+<beds>2</beds>
+<baths>2</baths>
+<pool>1</pool>
+<surface_area>
+<built>84</built>
+</surface_area>
+<desc>
+<en>Capri by Kronos Homes, Estepona – new 2-bedroom, 2-bathroom apartments with sea views, from €454,000 + VAT&#13;&#13;Capri by Kronos Homes is a new residential complex in Estepona, on the New Golden Mile between Estepona and Marbella, where the River Guadalmansa runs down to the sea. Architecture by Óscar Puga (TAU 2000).&#13;&#13;2-bedroom, 2-bathroom apartments start at €454,000 + VAT for 84 m². Homes with 2 and 3 bedrooms range from 84 to 112 m², up to a 3-bedroom penthouse with a 70.8 m² terrace at €774,000 + VAT. Ground-floor homes have private gardens, penthouses have sun terraces.&#13;&#13;266 homes in three phases: phases 1 and 2 (88 homes each) are at an advanced stage of construction with handover planned for 2026; phase 3 (90 homes) is now on sale.&#13;&#13;Three outdoor pools for adults and children set in landscaped gardens, a spa with an indoor pool, hydromassage, sauna and Turkish bath, a gym and a co-working area. BREEAM certification and aerothermal energy for air conditioning and hot water.&#13;&#13;La Resina Golf, Selwo Aventura and supermarkets are nearby. Puerto Banús is about 10 minutes away and Málaga airport less than 45 minutes (developer's data).&#13;&#13;We offer online video viewings and support you through the entire purchase — from reservation to the notary — in English or Russian.&#13;&#13;Prices exclude VAT (Kronos Homes price list, 26.10.2026); prices and availability change quickly. Contact us for the current price list, floor plans and availability.</en>
+<ru>Capri от Kronos Homes, Эстепона – новые квартиры с 2 спальнями и 2 ванными, вид на море, от 454 000 € + НДС&#13;&#13;Capri от Kronos Homes – новый жилой комплекс в Эстепоне, на Новой Золотой миле между Эстепоной и Марбельей, там, где к морю спускается река Гуадальманса. Архитектор – Óscar Puga (студия TAU 2000).&#13;&#13;Квартиры с 2 спальнями и 2 ванными от 454 000 € + НДС за 84 м². Квартиры с 2 и 3 спальнями от 84 до 112 м², до пентхауса с 3 спальнями и террасой 70,8 м² за 774 000 € + НДС. У квартир на первом этаже свои сады, у пентхаусов – солярии.&#13;&#13;266 домов в трех фазах: фазы 1 и 2 (по 88 квартир) в продвинутой стадии строительства, сдача по плану застройщика – 2026 год; фаза 3 (90 квартир) сейчас в продаже.&#13;&#13;Три открытых бассейна для взрослых и детей среди садов, спа с крытым бассейном, гидромассажем, сауной и турецкой баней, спортзал и коворкинг. Сертификат BREEAM, аэротермия для кондиционирования и горячей воды.&#13;&#13;Рядом гольф-клуб La Resina, Selwo Aventura и супермаркеты. До Пуэрто-Бануса около 10 минут, до аэропорта Малаги меньше 45 минут (по данным застройщика).&#13;&#13;Проводим онлайн-показы по видео и сопровождаем сделку под ключ — от бронирования до нотариуса, на русском или английском языке.&#13;&#13;Цены без НДС (прайс Kronos Homes на 26.10.2026); цены и наличие быстро меняются. Напишите нам, отправим актуальный прайс, планировки и наличие.</ru>
+</desc>
+<features>
+<feature>sea views</feature>
+<feature>new build</feature>
+<feature>private terrace</feature>
+<feature>communal pool</feature>
+<feature>children's pool</feature>
+<feature>indoor pool</feature>
+<feature>spa</feature>
+<feature>sauna</feature>
+<feature>gym</feature>
+<feature>co-working space</feature>
+<feature>communal garden</feature>
+<feature>BREEAM certified</feature>
+<feature>aerothermal climate control</feature>
+<feature>close to golf</feature>
+</features>
+<images>
+<image id="1">
+<url>https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-CAPRI/01.jpg</url>
+</image>
+<image id="2">
+<url>https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-CAPRI/02.jpg</url>
+</image>
+<image id="3">
+<url>https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-CAPRI/03.jpg</url>
+</image>
+<image id="4">
+<url>https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-CAPRI/04.jpg</url>
+</image>
+<image id="5">
+<url>https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-CAPRI/05.jpg</url>
+</image>
+<image id="6">
+<url>https://asistentkaviktorie-crypto.github.io/gfc-feeds/images/GFC-CAPRI/06.jpg</url>
 </image>
 </images>
 </property>
