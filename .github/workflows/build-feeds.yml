@@ -1,0 +1,102 @@
+# Оновлення фідів GFC з Google-таблиці (Realting, Prian, сайт).
+# ПРОТОТИП у гілці selfservice-prototype: GitHub запускає workflow_dispatch / schedule лише з гілки main,
+# тому тут він нічого не робить, поки гілку не злито в main (див. build/README_selfservice.md, «Запуск»).
+name: Оновити фіди з таблиці
+
+on:
+  workflow_dispatch:
+    inputs:
+      allow_drop:
+        description: "Дозволити різке зменшення кількості оголошень (так / ні)"
+        default: "ні"
+      dry_run:
+        description: "Лише перевірити, нічого не публікувати (так / ні)"
+        default: "ні"
+  schedule:
+    - cron: "15 5 * * *"          # щодня 06:15 за Прагою взимку (07:15 влітку); GitHub може запізнитися до ~30 хв
+  repository_dispatch:
+    types: [sheet-updated]        # необов'язково: кнопка в таблиці через Apps Script
+  push:
+    branches: [main]
+    paths: ["photos_in/**"]       # Марія завантажила фото через GitHub → оновлення одразу
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: gfc-feeds
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      changed: ${{ steps.stage.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Встановити бібліотеки
+        run: pip install --quiet openpyxl pillow xmlschema
+
+      - name: Завантажити таблицю
+        env:
+          SHEET_JSON_URL: ${{ secrets.SHEET_JSON_URL }}
+        run: python build/fetch_sheet.py --url "$SHEET_JSON_URL" --out work/GFC.xlsx
+
+      - name: Нові фото
+        run: python build/photos.py --xlsx work/GFC.xlsx --root . | tee work/photos.log
+
+      - name: Зібрати фіди
+        run: |
+          python build/build_feed.py --xlsx work/GFC.xlsx --out work/out \
+            --image-base-url https://asistentkaviktorie-crypto.github.io/gfc-feeds/images | tee work/build.log
+          cat work/photos.log >> work/build.log
+
+      - name: Перевірка (не публікує, якщо щось не так)
+        run: python build/guard.py --new work/out --old . --root . --log work/build.log --allow-drop "${{ inputs.allow_drop || 'ні' }}"
+
+      - name: Зберегти зміни
+        id: stage
+        if: ${{ (inputs.dry_run || 'ні') != 'так' }}
+        run: |
+          python build/stage.py work/out . | tee work/stage.log
+          git add gfc_realting.xml gfc_prian.xml gfc_site.json build/feed_state.json images photos_in
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"; echo "Змін немає – нічого не публікуємо."
+          else
+            git -c user.name="GFC feeds bot" -c user.email="asistentkaviktorie@gmail.com" \
+              commit -qm "Оновлення фідів з таблиці $(TZ=Europe/Prague date '+%Y-%m-%d %H:%M')"
+            git push -q origin HEAD:main
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  deploy:
+    # Pages має джерело «GitHub Actions»; коміт від робота сам Pages не оновлює, тому деплоїмо тут.
+    needs: build
+    if: ${{ needs.build.outputs.changed == 'true' || github.event_name == 'workflow_dispatch' && (inputs.dry_run || 'ні') != 'так' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Підготувати публічні файли
+        run: |
+          mkdir -p public
+          cp gfc_realting.xml gfc_prian.xml gfc_site.json index.html public/
+          touch public/.nojekyll
+          cp -r images public/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deployment
+        uses: actions/deploy-pages@v4
